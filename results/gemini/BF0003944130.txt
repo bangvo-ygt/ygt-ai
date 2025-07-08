@@ -1,0 +1,31 @@
+```json
+{
+  "bookings": [
+    {
+      "booking_date": "01.10.2024",
+      "booking_id": "0132997126",
+      "booking_record": [
+        {
+          "record_date": "03.10.2024",
+          "record_description": "BUGGIES 2 ROUNDS ESPICHE",
+          "record_money": 160.00
+        }
+      ]
+    }
+  ],
+  "currency": "EUR",
+  "invoice_date": "22.10.2024",
+  "invoice_id": "6016005427",
+  "receiver_name": "YOUR GOLF TRAVEL",
+  "supplier_name": "Tivoli Lagos Algarve Resort",
+  "total_amount": 160.00
+}
+```
+
+
+input tokens: 575
+output tokens: 218
+input detail tokens: [ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=317), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=258)]
+output candidate tokens: 218
+output thought tokens: None
+Response time:2.865159273147583

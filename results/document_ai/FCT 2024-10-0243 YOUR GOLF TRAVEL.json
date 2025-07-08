@@ -1,0 +1,103 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "4 950,00"
+                }
+            ],
+            "booking_id": "EU028982",
+            "booking_amount": 495000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "3 300,00"
+                }
+            ],
+            "booking_id": "EU031766",
+            "booking_amount": 330000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "6 600,00"
+                }
+            ],
+            "booking_id": "EU028788",
+            "booking_amount": 660000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "1 100,00"
+                }
+            ],
+            "booking_id": "EU044596",
+            "booking_amount": 110000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "4 400,00"
+                },
+                {
+                    "record_description": "VOITURETTE 18 T",
+                    "record_money": "1 600,00"
+                }
+            ],
+            "booking_id": "EU045191",
+            "booking_amount": 600000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "2 200,00"
+                }
+            ],
+            "booking_id": "EU046499",
+            "booking_amount": 220000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "4 400,00"
+                }
+            ],
+            "booking_id": "EU035627",
+            "booking_amount": 440000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "8 000,00"
+                }
+            ],
+            "booking_id": "EU032282",
+            "booking_amount": 800000.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "2 750,00"
+                }
+            ],
+            "booking_id": "EU031794",
+            "booking_amount": 275000.0
+        }
+    ],
+    "invoice_id": "2024-10-0243",
+    "supplier_name": "GOLF LES DUNES",
+    "receiver_name": "YOUR GOLF TRAVEL",
+    "currency": "DH",
+    "total_amount": "39 300,00"
+}

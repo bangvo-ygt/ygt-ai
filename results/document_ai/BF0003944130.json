@@ -1,0 +1,21 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_date": "03.10.2024",
+                    "record_description": "BUGGIES 2 ROUNDS ESPICHE",
+                    "record_money": "160.00"
+                }
+            ],
+            "booking_date": "03.10.2024",
+            "booking_id": "BF0003944130",
+            "booking_amount": 16000.0
+        }
+    ],
+    "invoice_id": "6016005427",
+    "total_amount": "160.00",
+    "receiver_name": "YOUR GOLF TRAVEL",
+    "currency": "EUR",
+    "supplier_name": "Tivoli Lagos Algarve Resort"
+}

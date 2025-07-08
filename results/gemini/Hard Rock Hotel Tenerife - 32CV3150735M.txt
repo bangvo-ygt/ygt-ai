@@ -1,0 +1,86 @@
+```json
+{
+  "bookings": [
+    {
+      "booking_date": "07/11/24",
+      "booking_id": "EU030838",
+      "booking_record": [
+        {
+          "record_date": "11/11/24",
+          "record_description": "a.HRT Deluxe Si HD",
+          "record_money": 771.12
+        }
+      ]
+    },
+    {
+      "booking_date": "07/11/24",
+      "booking_id": "EU030838",
+      "booking_record": [
+        {
+          "record_date": "11/11/24",
+          "record_description": "a.HRT Deluxe Si HD",
+          "record_money": 771.12
+        }
+      ]
+    },
+    {
+      "booking_date": "07/11/24",
+      "booking_id": "EU030838",
+      "booking_record": [
+        {
+          "record_date": "11/11/24",
+          "record_description": "a.HRT Deluxe Si HD",
+          "record_money": 771.12
+        }
+      ]
+    },
+    {
+      "booking_date": "07/11/24",
+      "booking_id": "EU030838",
+      "booking_record": [
+        {
+          "record_date": "11/11/24",
+          "record_description": "a.HRT Deluxe Si HD",
+          "record_money": 771.12
+        }
+      ]
+    },
+    {
+      "booking_date": "07/11/24",
+      "booking_id": "EU030838",
+      "booking_record": [
+        {
+          "record_date": "11/11/24",
+          "record_description": "a.HRT Deluxe Si HD",
+          "record_money": 771.12
+        }
+      ]
+    },
+    {
+      "booking_date": "07/11/24",
+      "booking_id": "EU030838",
+      "booking_record": [
+        {
+          "record_date": "11/11/24",
+          "record_description": "a.HRT Deluxe Si HD",
+          "record_money": 771.12
+        }
+      ]
+    }
+  ],
+  "currency": null,
+  "invoice_date": "25-10-2024",
+  "invoice_id": null,
+  "receiver_name": "YOUR GOLF TRAVEL LTD",
+  "supplier_name": "Hard Rock Hotel Tenerife",
+  "total_amount": 4626.72
+}
+```
+
+
+input tokens: 575
+output tokens: 712
+input detail tokens: [ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=317), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=258)]
+output candidate tokens: 712
+output thought tokens: None
+Response time:4.405115604400635

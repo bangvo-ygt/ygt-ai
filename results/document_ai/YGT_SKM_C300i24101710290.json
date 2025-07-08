@@ -1,0 +1,23 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_description": "GF 18 TROUS",
+                    "record_money": "8 400,00"
+                },
+                {
+                    "record_description": "VOITURETTE 18 TROUS",
+                    "record_money": "2 400,00"
+                }
+            ],
+            "booking_id": "EU031360",
+            "booking_amount": 1080000.0
+        }
+    ],
+    "currency": "DH",
+    "receiver_name": "YOUR GOLF TRAVEL",
+    "invoice_id": "2024-10-0563",
+    "supplier_name": "MADAEF GOLFS",
+    "total_amount": "10 800,00"
+}

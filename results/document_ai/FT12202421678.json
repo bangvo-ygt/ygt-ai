@@ -1,0 +1,73 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_date": "25-10-2024",
+                    "record_description": "Alojamento / Accomodation\nRegime/Board Basis",
+                    "record_money": "104.00\u20ac"
+                },
+                {
+                    "record_description": "Regime/Board Basis",
+                    "record_money": "0.00\u20ac"
+                }
+            ],
+            "booking_date": "25-10-2024",
+            "booking_id": "EU043737",
+            "booking_amount": 10400.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "25-10-2024",
+                    "record_description": "Alojamento /Accomodation Regime/Board Basis",
+                    "record_money": "104.00\u20ac"
+                },
+                {
+                    "record_description": "Regime/Board Basis",
+                    "record_money": "0.00\u20ac"
+                }
+            ],
+            "booking_date": "25-10-2024",
+            "booking_id": "EU043737",
+            "booking_amount": 10400.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "26-10-2024",
+                    "record_description": "Alojamento /Accomodation Regime/Board Basis",
+                    "record_money": "312.00\u20ac"
+                },
+                {
+                    "record_description": "Regime/Board Basis",
+                    "record_money": "0.00\u20ac"
+                }
+            ],
+            "booking_date": "26-10-2024",
+            "booking_id": "EU043737",
+            "booking_amount": 31200.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "26-10-2024",
+                    "record_description": "Alojamento /Accomodation Regime/Board Basis",
+                    "record_money": "312.00\u20ac"
+                },
+                {
+                    "record_description": "Regime/Board Basis",
+                    "record_money": "0.00\u20ac"
+                }
+            ],
+            "booking_date": "26-10-2024",
+            "booking_id": "EU043737",
+            "booking_amount": 31200.0
+        }
+    ],
+    "supplier_name": "Vila Gal\u00e9",
+    "total_amount": "832.00\u20ac",
+    "invoice_id": "FT 122024/21678",
+    "receiver_name": "YOUR GOLF TRAVEL LTD",
+    "currency": "\u20ac"
+}

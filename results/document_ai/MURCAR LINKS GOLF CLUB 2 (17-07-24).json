@@ -1,0 +1,26 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_description": "Green Fees - April 24",
+                    "record_money": "\u00a3460.00"
+                },
+                {
+                    "record_description": "Green Fees May 24",
+                    "record_money": "\u00a3320.00"
+                },
+                {
+                    "record_description": "Green Fees - June 24",
+                    "record_money": "\u00a31260.00"
+                }
+            ],
+            "booking_amount": 204000.0
+        }
+    ],
+    "receiver_name": "Your Golf Travel",
+    "total_amount": "\u20a42040.00",
+    "currency": "\u00a3",
+    "supplier_name": "MURCAR LINKS",
+    "invoice_id": "2"
+}

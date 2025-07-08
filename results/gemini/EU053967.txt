@@ -1,0 +1,61 @@
+```json
+{
+  "bookings": [
+    {
+      "booking_id": "EU053967",
+      "booking_date": "18.11.24",
+      "booking_record": [
+        {
+          "record_date": "18.11.2024",
+          "record_description": "Media pension",
+          "record_money": "203,00"
+        },
+        {
+          "record_date": "19.11.2024",
+          "record_description": "Media pension",
+          "record_money": "203,00"
+        },
+        {
+          "record_date": "20.11.2024",
+          "record_description": "Media pension",
+          "record_money": "203,00"
+        },
+        {
+          "record_date": "21.11.2024",
+          "record_description": "Media pension",
+          "record_money": "203,00"
+        },
+        {
+          "record_date": "22.11.2024",
+          "record_description": "Media pension",
+          "record_money": "203,00"
+        },
+        {
+          "record_date": "23.11.2024",
+          "record_description": "Media pension",
+          "record_money": "203,00"
+        },
+        {
+          "record_date": "24.11.2024",
+          "record_description": "Media pension",
+          "record_money": "203,00"
+        }
+      ]
+    }
+  ],
+  "currency": "EUR",
+  "invoice_date": "29.10.2024",
+  "invoice_id": "8002994871",
+  "receiver_name": "YOUR GOLF TRAVEL LTD",
+  "supplier_name": "Hotelera Adeje S.L.",
+  "total_amount": "1421,00"
+}
+```
+
+
+input tokens: 575
+output tokens: 516
+input detail tokens: [ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=317), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=258)]
+output candidate tokens: 516
+output thought tokens: None
+Response time:4.6061859130859375

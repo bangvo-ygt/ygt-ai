@@ -1,0 +1,74 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_date": "07/11/24",
+                    "record_description": "a.HRT Deluxe Si",
+                    "record_money": "771,12"
+                }
+            ],
+            "booking_id": "EU030838",
+            "booking_amount": 77112.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "07/11/24",
+                    "record_description": "a.HRT Deluxe Si",
+                    "record_money": "771,12"
+                }
+            ],
+            "booking_id": "EU030838",
+            "booking_amount": 77112.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "07/11/24",
+                    "record_description": "a.HRT Deluxe Si",
+                    "record_money": "771,12"
+                }
+            ],
+            "booking_id": "EU030838",
+            "booking_amount": 77112.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "07/11/24",
+                    "record_description": "a.HRT Deluxe Si",
+                    "record_money": "771,12"
+                }
+            ],
+            "booking_id": "EU030838",
+            "booking_amount": 77112.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "07/11/24",
+                    "record_description": "a.HRT Deluxe Si",
+                    "record_money": "771,12"
+                }
+            ],
+            "booking_id": "EU030838",
+            "booking_amount": 77112.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "07/11/24",
+                    "record_description": "a.HRT Deluxe Si",
+                    "record_money": "771,12"
+                }
+            ],
+            "booking_id": "EU030838",
+            "booking_amount": 77112.0
+        }
+    ],
+    "invoice_id": "32CV3150735M",
+    "receiver_name": "YOUR GOLF TRAVEL LTD",
+    "total_amount": "4.626,72",
+    "supplier_name": "Hard Rock Hotel Tenerife"
+}

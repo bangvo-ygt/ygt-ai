@@ -1,0 +1,33 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_date": "24/10/2024",
+                    "record_description": "Unlimited Golf 3",
+                    "record_money": "984.00"
+                }
+            ],
+            "booking_date": "24/10/2024",
+            "booking_id": "EU050741",
+            "booking_amount": 98400.0
+        },
+        {
+            "booking_record": [
+                {
+                    "record_date": "26/10/2024",
+                    "record_description": "Unlimited Golf 3",
+                    "record_money": "492.00"
+                }
+            ],
+            "booking_date": "24/10/2024",
+            "booking_id": "EU050741",
+            "booking_amount": 49200.0
+        }
+    ],
+    "currency": "Euros",
+    "invoice_id": "FA 1020201/4372",
+    "receiver_name": "Your Golf Travel",
+    "supplier_name": "AMENDOEIRA",
+    "total_amount": "1,476.00"
+}

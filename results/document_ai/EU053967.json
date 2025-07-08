@@ -1,0 +1,50 @@
+{
+    "booking": [
+        {
+            "booking_record": [
+                {
+                    "record_date": "18.11.2024",
+                    "record_description": "Media pension",
+                    "record_money": "203,00"
+                },
+                {
+                    "record_date": "19.11.2024",
+                    "record_description": "Media pension",
+                    "record_money": "203,00"
+                },
+                {
+                    "record_date": "20.11.2024",
+                    "record_description": "Media pension",
+                    "record_money": "203,00"
+                },
+                {
+                    "record_date": "21.11.2024",
+                    "record_description": "Media pension",
+                    "record_money": "203,00"
+                },
+                {
+                    "record_date": "22.11.2024",
+                    "record_description": "Media pension",
+                    "record_money": "203,00"
+                },
+                {
+                    "record_date": "23.11.2024",
+                    "record_description": "Media pension",
+                    "record_money": "203,00"
+                },
+                {
+                    "record_date": "24.11.2024",
+                    "record_description": "Media pension",
+                    "record_money": "203,00"
+                }
+            ],
+            "booking_id": "EU053967",
+            "booking_amount": 142100.0
+        }
+    ],
+    "receiver_name": "YOUR GOLF TRAVEL LTD",
+    "invoice_id": "8002994871",
+    "supplier_name": "Hotelera Adeje S.L.",
+    "currency": "EUR",
+    "total_amount": "1.421,00"
+}

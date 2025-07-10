@@ -1,0 +1,761 @@
+idx,code,folder_name,file_name,file_type,file_type_mapping,split,in_use
+0,ABA003,ABA003 Ritz Carlton Abama Golf & Spa Resort,Brunjes 89015214.pdf,pdf,pdf,0,True
+1,ABA003,ABA003 Ritz Carlton Abama Golf & Spa Resort,Mr Bouke Debakker.pdf,pdf,pdf,0,True
+2,ABA003,ABA003 Ritz Carlton Abama Golf & Spa Resort,Mr Crust 85290376.pdf,pdf,pdf,0,True
+3,ABA006,ABA006 Abama Golf Course,INVOICE 1125-25 YOUR GOLF TRAVEL MAR 25.pdf,pdf,pdf,2,True
+4,ABA006,ABA006 Abama Golf Course,INVOICE 1220-25 YOUR GOLF TRAVEL APR 25.pdf,pdf,pdf,2,True
+5,ABA006,ABA006 Abama Golf Course,INVOICE 866-25 YOUR GOLF TRAVEL ENE 25.pdf,pdf,pdf,2,True
+6,ABB001,ABB001 The Abbey Hotel,34733.PDF,pdf,pdf,3,True
+7,ABB001,ABB001 The Abbey Hotel,34734.PDF,pdf,pdf,3,True
+8,ABB001,ABB001 The Abbey Hotel,34736.PDF,pdf,pdf,3,True
+9,ABB001,ABB001 The Abbey Hotel,34745.PDF,pdf,pdf,3,True
+10,ABB001,ABB001 The Abbey Hotel,34897.PDF,pdf,pdf,3,True
+11,ABU005,ABU005 Abu Dhabi Golf Club,ADAR23-0523.pdf,pdf,pdf,2,True
+12,ABU005,ABU005 Abu Dhabi Golf Club,ADAR24-0119.pdf,pdf,pdf,2,True
+13,ABU005,ABU005 Abu Dhabi Golf Club,ADAR24-0186.pdf,pdf,pdf,2,True
+14,ADA001,ADA001 Adare Manor,271391.PDF,pdf,pdf,0,True
+15,ADA001,ADA001 Adare Manor,293102.pdf,pdf,pdf,0,True
+16,ADA001,ADA001 Adare Manor,Bettsack.pdf,pdf,pdf,0,True
+17,ADE005,ADE005 H10 Costa Adeje Palace,EU055432.pdf,pdf,pdf,1,True
+18,ADE005,ADE005 H10 Costa Adeje Palace,EU059343.pdf,pdf,pdf,1,True
+19,ADE005,ADE005 H10 Costa Adeje Palace,YOUR GOLF EU064649.pdf,pdf,pdf,1,True
+20,AGD001,AGD001 Kenzi Agdal Medina,"Proforma Invoice from  june EU069207 , Mr . Ben Love.pdf",pdf,pdf,3,True
+21,AGD001,AGD001 Kenzi Agdal Medina,"Proforma Invoice from Mai  EU057807 , Mr Peter Pearce.pdf",pdf,pdf,3,True
+22,AGD001,AGD001 Kenzi Agdal Medina,"Proforma Invoice from Mai EU070626 , Mr Hilton Lewis.pdf",pdf,pdf,3,True
+23,ALA002,ALA002 Hotel Alay,AFA5  3808-YOUR GOLF TRAVEL LTD.pdf,pdf,pdf,1,True
+24,ALA002,ALA002 Hotel Alay,AFA5  4215-YOUR GOLF TRAVEL LTD.pdf,pdf,pdf,1,True
+25,ALA002,ALA002 Hotel Alay,AFA5  4554-YOUR GOLF TRAVEL LTD.pdf,pdf,pdf,1,True
+26,ALC003,ALC003 Club De Golf Alcanada,F02052024_140706_463.pdf,pdf,pdf,3,True
+27,ALC003,ALC003 Club De Golf Alcanada,F02072025_151825_463.pdf,pdf,pdf,3,True
+28,ALC003,ALC003 Club De Golf Alcanada,F30112024_111907_463.pdf,pdf,pdf,3,True
+29,ALM005,ALM005 SO Sotogrande,Fry.PDF,pdf,pdf,3,True
+30,ALM005,ALM005 SO Sotogrande,Mr. Gill Griffith. Your Golf Travel.PDF,pdf,pdf,3,True
+31,ALM005,ALM005 SO Sotogrande,Mr. Hddon- YOUR GOLF TRAVEL.pdf,pdf,pdf,3,True
+32,ALV004,ALV004 Pestana Alvor Atlantico,301_FT301P040275_2025.pdf,pdf,pdf,3,True
+33,ALV004,ALV004 Pestana Alvor Atlantico,301_FT301P040281_2025.pdf,pdf,pdf,3,True
+34,ALV004,ALV004 Pestana Alvor Atlantico,301_FT301P040338_2025.pdf,pdf,pdf,3,True
+35,AME006,AME006 Amendoeira Golf Resort,FA_1020201_5882.pdf,pdf,pdf,-1,False
+36,AME006,AME006 Amendoeira Golf Resort,FA_1020201_5883.pdf,pdf,pdf,-1,False
+37,AME006,AME006 Amendoeira Golf Resort,FA_1020201_5885.pdf,pdf,pdf,-1,False
+38,AME006,AME006 Amendoeira Golf Resort,FA_1020201_5886.pdf,pdf,pdf,-1,False
+39,AME006,AME006 Amendoeira Golf Resort,FA_1020201_5889.pdf,pdf,pdf,-1,False
+40,AME006,AME006 Amendoeira Golf Resort,FA_1020201_5891.pdf,pdf,pdf,-1,False
+41,ANN003,ANN003 Thanos Annabelle Hotel,297740 YGT.pdf,pdf,pdf,0,True
+42,ANN003,ANN003 Thanos Annabelle Hotel,YGT 343456.pdf,pdf,pdf,0,True
+43,ANN003,ANN003 Thanos Annabelle Hotel,YOUR GOLF TRAVEL - ANNABELLE PROFORMA.pdf,pdf,pdf,0,True
+44,APH003,APH003 Aphrodite Hills Hotel,40102.pdf,pdf,pdf,3,True
+45,APH003,APH003 Aphrodite Hills Hotel,41765.pdf,pdf,pdf,3,True
+46,APH003,APH003 Aphrodite Hills Hotel,46426.pdf,pdf,pdf,3,True
+47,ARA004,ARA004 Arabella Golf Mallorca,Factura FT3448 Yurgolftravel Febrero 25.pdf,pdf,pdf,0,True
+48,ARA004,ARA004 Arabella Golf Mallorca,Factura FT3635 Yourgolftravel Abril .pdf,pdf,pdf,0,True
+49,ARA004,ARA004 Arabella Golf Mallorca,Factura FT3720 Yourgolftravel Mayo.pdf,pdf,pdf,0,True
+50,ARD001,ARD001 Ardencote,UK054272 - INV025453-54 Robinson 14.06.25.pdf,pdf,pdf,0,True
+51,ASC005,ASC005 Ascot Tours,Klimcke - INV00246509.pdf,pdf,pdf,2,True
+52,ASS003,ASS003 Assoufid,Yourgolftravel 0182025.pdf,pdf,pdf,0,True
+53,ASS003,ASS003 Assoufid,Yourgolftravel agence 0232025.pdf,pdf,pdf,0,True
+54,ASS003,ASS003 Assoufid,yourgolf agence 0462024 (1).pdf,pdf,pdf,0,True
+55,ATE001,ATE001 Melia Palma Marina Mallorca,EU044189.PDF,pdf,pdf,2,True
+56,ATE001,ATE001 Melia Palma Marina Mallorca,EU045350.pdf,pdf,pdf,2,True
+57,ATE001,ATE001 Melia Palma Marina Mallorca,EU067213.pdf,pdf,pdf,2,True
+58,ATS001,ATS001 ATS - Algarve,035 YGT.pdf,pdf,pdf,3,True
+59,ATS001,ATS001 ATS - Algarve,042 YGT.pdf,pdf,pdf,3,True
+60,ATS001,ATS001 ATS - Algarve,050 YGT.pdf,pdf,pdf,3,True
+61,AWA001,AWA001 Heritage Awali Golf & Spa Resort,YOUR GOLF TRAVEL _HA_AR_1003199.pdf,pdf,pdf,1,True
+62,AWA001,AWA001 Heritage Awali Golf & Spa Resort,YOUR GOLF TRAVEL _HA_AR_1003204.pdf,pdf,pdf,1,True
+63,AWA001,AWA001 Heritage Awali Golf & Spa Resort,YOUR GOLF TRAVEL_HA_AR_1003383.pdf,pdf,pdf,1,True
+64,AWA001,AWA001 Heritage Awali Golf & Spa Resort,YOUR GOLF TRAVEL_HA_AR_1004589.pdf,pdf,pdf,1,True
+65,Avisford,Avisford Park,208773.pdf,pdf,pdf,-1,False
+66,BAI003,BAI003 Hotel Baia,DOC001.pdf,pdf,pdf,2,True
+67,BAI003,BAI003 Hotel Baia,DOC002.pdf,pdf,pdf,2,True
+68,BAI003,BAI003 Hotel Baia,DOC004.pdf,pdf,pdf,2,True
+69,BAN001,BAN001 Bank House Hotel,INV009509.pdf,pdf,pdf,-1,False
+70,BAN001,BAN001 Bank House Hotel,INV009510.pdf,pdf,pdf,-1,False
+71,BAN001,BAN001 Bank House Hotel,INV009632.pdf,pdf,pdf,-1,False
+72,BAR003,BAR003 Barnham Broom Golf Club,Invoices 1st February 2024.xlsx,xlsx,excel,2,True
+73,BAR003,BAR003 Barnham Broom Golf Club,Invoices 1st January 2025.xlsx,xlsx,excel,2,True
+74,BAR003,BAR003 Barnham Broom Golf Club,Invoices 1st July 2024 (2).xlsx,xlsx,excel,2,True
+75,BAR015,BAR015 Barcelo Marbella,Fra YourGolfT 01f2507271.pdf,pdf,pdf,0,True
+76,BAR015,BAR015 Barcelo Marbella,Fra YourGolft 01f2507415.pdf,pdf,pdf,0,True
+77,BAR015,BAR015 Barcelo Marbella,Fra YourGolft 01f2507540.pdf,pdf,pdf,0,True
+78,BAR015,BAR015 Barcelo Marbella,Fra Yourgolft 01f2507157.pdf,pdf,pdf,0,True
+79,BAR015,BAR015 Barcelo Marbella,Fra Yourgolft 01f2507336.pdf,pdf,pdf,0,True
+80,BAR015,BAR015 Barcelo Marbella,Fra yourGolft 01f2507508.pdf,pdf,pdf,0,True
+81,BAY004,BAY004 Blue Bay Banus,EU057022.pdf,pdf,pdf,3,True
+82,BAY004,BAY004 Blue Bay Banus,EU059944.pdf,pdf,pdf,3,True
+83,BAY004,BAY004 Blue Bay Banus,EU062158.pdf,pdf,pdf,3,True
+84,BAY008,BAY008 Bay Hill,"Member Statement for 6515, Dec 31, 2024 (Month End Ref#_ EOM_December2024).pdf",pdf,pdf,2,True
+85,BAY008,BAY008 Bay Hill,"Member Statement for 6515, Mar 31, 2025 (Month End Ref#_ EOM_03.31.2025).pdf",pdf,pdf,2,True
+86,BAY008,BAY008 Bay Hill,"Member Statement for 6515, May 31, 2025 (Month End Ref#_ EOM_May2025).pdf",pdf,pdf,2,True
+87,BEL002,BEL002 Belton Woods,Inv 254426.pdf,pdf,pdf,1,True
+88,BEL002,BEL002 Belton Woods,Inv 254502.pdf,pdf,pdf,1,True
+89,BEL002,BEL002 Belton Woods,Inv 254532.pdf,pdf,pdf,1,True
+90,BEL002,BEL002 Belton Woods,Inv 254533.pdf,pdf,pdf,1,True
+91,BEL002,BEL002 Belton Woods,Inv 254534.pdf,pdf,pdf,1,True
+92,BEL002,BEL002 Belton Woods,Inv 254593.pdf,pdf,pdf,1,True
+93,BEL002,BEL002 Belton Woods,Inv 254595.pdf,pdf,pdf,1,True
+94,BEL007,BEL007 Constance Belle Mare Plage,10130007.pdf,pdf,pdf,2,True
+95,BEL007,BEL007 Constance Belle Mare Plage,10130443.pdf,pdf,pdf,2,True
+96,BEL007,BEL007 Constance Belle Mare Plage,10130444.pdf,pdf,pdf,2,True
+97,BEL016,BEL016 Bells Hotel and The Forest of Dean Golf Club,BK44124 YGT.pdf,pdf,pdf,1,True
+98,BEL016,BEL016 Bells Hotel and The Forest of Dean Golf Club,Joel Williams.pdf,pdf,pdf,1,True
+99,BEL016,BEL016 Bells Hotel and The Forest of Dean Golf Club,Liam Farbrace.pdf,pdf,pdf,1,True
+100,BLC001,BLC001 Be Live Collection Marrakech,KLT2501621 -20-05-2025.pdf,pdf,pdf,0,True
+101,BLC001,BLC001 Be Live Collection Marrakech,KLT2501622 -20-05-2025.pdf,pdf,pdf,0,True
+102,BLC001,BLC001 Be Live Collection Marrakech,KLT2501623 20-05-2025.pdf,pdf,pdf,0,True
+103,BLC001,BLC001 Be Live Collection Marrakech,KLT2501624 -20-05-2025.pdf,pdf,pdf,0,True
+104,BLC001,BLC001 Be Live Collection Marrakech,KLT2501868.pdf,pdf,pdf,0,True
+105,BLC001,BLC001 Be Live Collection Marrakech,KLT2501869.pdf,pdf,pdf,0,True
+106,BOA003,BOA003 Quinta Da Boavista SA,FPRO 86125_188.pdf,pdf,pdf,0,True
+107,BOA003,BOA003 Quinta Da Boavista SA,FPRO 86125_192.pdf,pdf,pdf,0,True
+108,BOA003,BOA003 Quinta Da Boavista SA,FPRO 86125_194.pdf,pdf,pdf,0,True
+109,BOW003,BOW003 Bowood Hotel Spa and Golf Resort,room-invoice (1).pdf,pdf,pdf,3,True
+110,BOW003,BOW003 Bowood Hotel Spa and Golf Resort,room-invoice (2).pdf,pdf,pdf,3,True
+111,BOW003,BOW003 Bowood Hotel Spa and Golf Resort,room-invoice.pdf,pdf,pdf,3,True
+112,BRE001,BRE001 Marriott - Breadsall Priory,SimonHarborneYGT.pdf,pdf,pdf,1,True
+113,BRE001,BRE001 Marriott - Breadsall Priory,uk_emags_folio_thermal_dcc4010537120.pdf,pdf,pdf,1,True
+114,BRE001,BRE001 Marriott - Breadsall Priory,uk_emags_folio_thermal_dcc4012505490.pdf,pdf,pdf,1,True
+115,BRI008,BRI008 Hotel Bristol Le Touquet,INVOICE YGT MAY 2025 HOTEL BRISTOL LE TOUQUET.pdf,pdf,pdf,2,True
+116,BRI008,BRI008 Hotel Bristol Le Touquet,INVOICES YGT APRIL 2025 - HOTEL BRISTOL LE TOUQUET.pdf,pdf,pdf,2,True
+117,BRI008,BRI008 Hotel Bristol Le Touquet,Scan0038.pdf,pdf,pdf,2,True
+118,BRI060,BRI060 The Bristol Harbourside,BRH_yourgolftravel_65966.pdf,pdf,pdf,2,True
+119,BRI060,BRI060 The Bristol Harbourside,BRH_yourgolftravel_66052.pdf,pdf,pdf,2,True
+120,BRI060,BRI060 The Bristol Harbourside,BRH_yourgolftravel_66105.pdf,pdf,pdf,2,True
+121,BUE002,BUE002 Melia Hacienda del Conde,213349154.PDF,pdf,pdf,1,True
+122,BUE002,BUE002 Melia Hacienda del Conde,244847088.pdf,pdf,pdf,1,True
+123,BUE002,BUE002 Melia Hacienda del Conde,298719236.PDF,pdf,pdf,1,True
+124,BUE002,BUE002 Melia Hacienda del Conde,328494274.PDF,pdf,pdf,1,True
+125,BUE002,BUE002 Melia Hacienda del Conde,331446935.PDF,pdf,pdf,1,True
+126,CAB001,CAB001 Cabopino Golf Marbella,Factura-2025-0151.pdf,pdf,pdf,1,True
+127,CAB001,CAB001 Cabopino Golf Marbella,Factura-2025-0219.pdf,pdf,pdf,1,True
+128,CAB001,CAB001 Cabopino Golf Marbella,Factura-2025-0278.pdf,pdf,pdf,1,True
+129,CAB002,CAB002 AP Cabanas Beach & Nature,HostPms_Invoice_1_Factura_Nº_Invoice_Nr___FA_1026201_11553_2025-01-27_.pdf,pdf,pdf,2,True
+130,CAB002,CAB002 AP Cabanas Beach & Nature,HostPms_Invoice_1_Factura_Nº_Invoice_Nr___FA_1026201_11560_2025-01-28_.pdf,pdf,pdf,2,True
+131,CAB002,CAB002 AP Cabanas Beach & Nature,HostPms_Invoice_1_Factura_Nº_Invoice_Nr___FA_1026201_2080_2022-09-09_.pdf,pdf,pdf,2,True
+132,CAR001,CAR001 Carden Park,YGT Statement May 2025.xlsx,xlsx,excel,1,True
+133,CAR002,CAR002 MacDonald - Cardrona Hotel,YGT P10 (1).xlsx,xlsx,excel,-1,False
+134,CAR002,CAR002 MacDonald - Cardrona Hotel,YGT P8.xlsx,xlsx,excel,-1,False
+135,CAR002,CAR002 MacDonald - Cardrona Hotel,YGT P9.1 (3).xlsx,xlsx,excel,-1,False
+136,CAS011,CAS011 Casa de Campo,Invoice - Your Golf Travel - Mr. Matthew French -Casa de Campo.pdf,pdf,pdf,1,True
+137,CAS011,CAS011 Casa de Campo,Invoice - Your Golf Travel - Mrs. Anne Weston -Casa de Campo.pdf,pdf,pdf,1,True
+138,CAS011,CAS011 Casa de Campo,Invoice -Your Golf Travel- Mr. Kevin Langston - Casa de Campo (1).pdf,pdf,pdf,1,True
+139,CAl006,CAl006 Calanova Golf Club,YOUR GOLF TRAVEL 381.pdf,pdf,pdf,2,True
+140,CAl006,CAl006 Calanova Golf Club,YOUR GOLF TRAVEL FRA.74.pdf,pdf,pdf,2,True
+141,CAl006,CAl006 Calanova Golf Club,YOURGOLFTRAVEL FRA.2.pdf,pdf,pdf,2,True
+142,CIN001,CIN001 Royal Cinque Ports Golf Club,SI-2264 - Your Golf Travel.pdf,pdf,pdf,0,True
+143,CIN001,CIN001 Royal Cinque Ports Golf Club,SI-2318 - Your Golf Travel.pdf,pdf,pdf,0,True
+144,CIN001,CIN001 Royal Cinque Ports Golf Club,SI-2357 - Your Golf Travel.pdf,pdf,pdf,0,True
+145,CLW002,CLW002 Clwb Golff Nefyn,Your Golf Travel - August 2024.pdf,pdf,pdf,1,True
+146,CLW002,CLW002 Clwb Golff Nefyn,Your Golf Travel - July 2024.pdf,pdf,pdf,1,True
+147,CLW002,CLW002 Clwb Golff Nefyn,Your Golf Travel Feb-June 24 (1).pdf,pdf,pdf,1,True
+148,COM009,COM009 Complete Tours,02 INV 249 FEB YOUR GOLF.xlsx,xlsx,excel,0,True
+149,COM009,COM009 Complete Tours,03 INV 286 MAR YOUR GOLF.xlsx,xlsx,excel,0,True
+150,COM009,COM009 Complete Tours,04 INV 568 APRIL YOUR GOLF.xlsx,xlsx,excel,0,True
+151,CON011,CON011 Conrad Algarve,F 157159 - Your Golf Travel Ltd.pdf,pdf,pdf,0,True
+152,CON011,CON011 Conrad Algarve,F 157160 - Your Golf Travel Ltd.pdf,pdf,pdf,0,True
+153,CON011,CON011 Conrad Algarve,F 157195 - Your Golf Travel Ltd.pdf,pdf,pdf,0,True
+154,CON011,CON011 Conrad Algarve,F 157197 - Your Golf Travel Ltd.pdf,pdf,pdf,0,True
+155,CON011,CON011 Conrad Algarve,F 157203 - Your Golf Travel Ltd.pdf,pdf,pdf,0,True
+156,CON011,CON011 Conrad Algarve,F 157204 - Your Golf Travel Ltd.pdf,pdf,pdf,0,True
+157,CON011,CON011 Conrad Algarve,F 157268 - Your Golf Travel Ltd.pdf,pdf,pdf,0,True
+158,COS009,COS009 Costa Del Sol deluxe transfer,MASTER - Invoice Template COSTA DEL SOL DELUXE TRANSPORT (1).xlsx,xlsx,excel,2,True
+159,COS009,COS009 Costa Del Sol deluxe transfer,MASTER - Invoice Template COSTA DEL SOL DELUXE TRANSPORT (2).xlsx,xlsx,excel,2,True
+160,COS009,COS009 Costa Del Sol deluxe transfer,MASTER - Invoice Template COSTA DEL SOL DELUXE TRANSPORT.xlsx,xlsx,excel,2,True
+161,COT009,COT009 Cotswolds Hotel & Spa,COTSWCLUB_LedgerStatement_20250214_105002.pdf,pdf,pdf,2,True
+162,COT009,COT009 Cotswolds Hotel & Spa,COTSWCLUB_LedgerStatement_20250513_091745.pdf,pdf,pdf,2,True
+163,CRA005,CRA005 Craigielaw Golf Club,Sales Invoices (1).pdf,pdf,pdf,3,True
+164,CRA005,CRA005 Craigielaw Golf Club,Sales Invoices (2).pdf,pdf,pdf,3,True
+165,CRA005,CRA005 Craigielaw Golf Club,Sales Invoices.pdf,pdf,pdf,3,True
+166,CRO001,CRO001 Crowne Plaza Vilamoura,FR 253598 . 513328 . 1156.68 E.pdf,pdf,pdf,0,True
+167,CRO001,CRO001 Crowne Plaza Vilamoura,FR 253600 . 516867 . 748.44 E.pdf,pdf,pdf,0,True
+168,CRO001,CRO001 Crowne Plaza Vilamoura,FR 253601 . 532707 . 748.44 E.pdf,pdf,pdf,0,True
+169,CRO001,CRO001 Crowne Plaza Vilamoura,FR 253620 . 532355 . 1156.68 E.pdf,pdf,pdf,0,True
+170,Carlton,Carlton Hotel Prestwick,INV30448 - Cooper.pdf,pdf,pdf,2,True
+171,Carlton,Carlton Hotel Prestwick,INV30449 - Cooper.pdf,pdf,pdf,2,True
+172,DAL001,DAL001 Dalmahoy Hotel,YGT April 2025.pdf,pdf,pdf,1,True
+173,DAL001,DAL001 Dalmahoy Hotel,YGT February 2025.pdf,pdf,pdf,1,True
+174,DAL001,DAL001 Dalmahoy Hotel,YGT May 2025.pdf,pdf,pdf,1,True
+175,DAL002,DAL002 Dale Hill Hotel & Golf Ltd,05.06.25.pdf,pdf,pdf,2,True
+176,DAL002,DAL002 Dale Hill Hotel & Golf Ltd,14.05.25.pdf,pdf,pdf,2,True
+177,DAL002,DAL002 Dale Hill Hotel & Golf Ltd,YGT.pdf,pdf,pdf,2,True
+178,DAR001,DAR001 Dartmouth Golf & Country Club,YGT Statement February 2025.xlsx,xlsx,excel,0,True
+179,DAR001,DAR001 Dartmouth Golf & Country Club,YGT Statement November 2024.xlsx,xlsx,excel,0,True
+180,DAR001,DAR001 Dartmouth Golf & Country Club,YGT Statement October 2024.xlsx,xlsx,excel,0,True
+181,DOM008,DOM008 Pestana Dom Joao II,301_FT301H0301198_2025.pdf,pdf,pdf,1,True
+182,DOM008,DOM008 Pestana Dom Joao II,301_FT301H0301283_2025.pdf,pdf,pdf,1,True
+183,DOM008,DOM008 Pestana Dom Joao II,301_FT301H0301832_2025.pdf,pdf,pdf,1,True
+184,DOM009,DOM009 Hotel Dom Pedro Marina,3030803 - INVOICE PROFORMA - YOUR GOLF TRAVEL  ( EU045440 ).pdf,pdf,pdf,2,True
+185,DOM009,DOM009 Hotel Dom Pedro Marina,3035781 - INVOICE PROFORMA YOUR GOLF TRAVEL (  EU047455 ).pdf,pdf,pdf,2,True
+186,DOM009,DOM009 Hotel Dom Pedro Marina,pro-forma.pdf,pdf,pdf,2,True
+187,DOM010,DOM010 Dom Pedro Portobello,4044054 - INVOICE PROFORMA.pdf,pdf,pdf,3,True
+188,DOM010,DOM010 Dom Pedro Portobello,4048329 - INVOICE PROFORMA.pdf,pdf,pdf,3,True
+189,DOM010,DOM010 Dom Pedro Portobello,4049490 - INVOICE PROFORMA.pdf,pdf,pdf,3,True
+190,DON003,DON003 Dona Filipa Hotel,dflp_folio_353053.PDF,pdf,pdf,2,True
+191,DON003,DON003 Dona Filipa Hotel,dflp_folio_411066.PDF,pdf,pdf,2,True
+192,DON003,DON003 Dona Filipa Hotel,dflp_folio_425309.PDF,pdf,pdf,2,True
+193,DOR001,DOR001 The Dorset Golf & Country Club,June 2025 YGT Statement.doc,doc,word,2,True
+194,DRU003,DRU003 Druids Glen Hotel & Golf Resort,YGT Statement 31.01.2025.xls,xls,excel,0,True
+195,DRU003,DRU003 Druids Glen Hotel & Golf Resort,YGT Statement 31.05.2025.xls,xls,excel,0,True
+196,DRU003,DRU003 Druids Glen Hotel & Golf Resort,YGT Statement 31.10.2024.xls,xls,excel,0,True
+197,DUB099,DUB099 Dubai Golf,47101.pdf,pdf,pdf,1,True
+198,DUB099,DUB099 Dubai Golf,47102.pdf,pdf,pdf,1,True
+199,DUB099,DUB099 Dubai Golf,47316.pdf,pdf,pdf,1,True
+200,DUB099,DUB099 Dubai Golf,47317.pdf,pdf,pdf,1,True
+201,DUB099,DUB099 Dubai Golf,47318.pdf,pdf,pdf,1,True
+202,DUB099,DUB099 Dubai Golf,47319.pdf,pdf,pdf,1,True
+203,DUB099,DUB099 Dubai Golf,47320.pdf,pdf,pdf,1,True
+204,DUB099,DUB099 Dubai Golf,47321.pdf,pdf,pdf,1,True
+205,DUB099,DUB099 Dubai Golf,47322.pdf,pdf,pdf,1,True
+206,DUB099,DUB099 Dubai Golf,47323.pdf,pdf,pdf,1,True
+207,DUB099,DUB099 Dubai Golf,47324.pdf,pdf,pdf,1,True
+208,DUB099,DUB099 Dubai Golf,47325.pdf,pdf,pdf,1,True
+209,DUB099,DUB099 Dubai Golf,47326.pdf,pdf,pdf,1,True
+210,DUB099,DUB099 Dubai Golf,47381.pdf,pdf,pdf,1,True
+211,DUB099,DUB099 Dubai Golf,47382.pdf,pdf,pdf,1,True
+212,DUN001,DUN001 Dunston Hall Hotel,Hazell 325848 UK061208 (1).pdf,pdf,pdf,2,True
+213,DUN001,DUN001 Dunston Hall Hotel,Smith 325982 UK073435.pdf,pdf,pdf,2,True
+214,DUN001,DUN001 Dunston Hall Hotel,Taylor 326062 UK070964.pdf,pdf,pdf,2,True
+215,DUN001,DUN001 Dunston Hall Hotel,Wilde 325954 UK063046.pdf,pdf,pdf,2,True
+216,DUN010,DUN010 Golf de Belle Dune,F3033.pdf,pdf,pdf,3,True
+217,DUN010,DUN010 Golf de Belle Dune,F3101.pdf,pdf,pdf,3,True
+218,DUN010,DUN010 Golf de Belle Dune,F3102.pdf,pdf,pdf,3,True
+219,DUN010,DUN010 Golf de Belle Dune,F3105.pdf,pdf,pdf,3,True
+220,EAS001,EAS001 East Sussex National,Statement 03.06.2025.xlsx,xlsx,excel,3,True
+221,EAS001,EAS001 East Sussex National,Statement 07.05.2025.xlsx,xlsx,excel,3,True
+222,EAS001,EAS001 East Sussex National,Statement 25.06.2025.xlsx,xlsx,excel,3,True
+223,ELB003,ELB003 Elba Palace Golf,Invoice (14).PDF,pdf,pdf,-1,False
+224,ELB003,ELB003 Elba Palace Golf,Invoice (4).PDF,pdf,pdf,-1,False
+225,ELB003,ELB003 Elba Palace Golf,Invoice (5).PDF,pdf,pdf,-1,False
+226,ELC002,ELC002 El Chaparral Golf Club,YOUR GOLF TRAVEL JUGADORES ABRIL 2025.pdf,pdf,pdf,3,True
+227,ELC002,ELC002 El Chaparral Golf Club,YOUR GOLF TRAVEL JUGADORES JUNIO 2025.pdf,pdf,pdf,3,True
+228,ELC002,ELC002 El Chaparral Golf Club,YOUR GOLF TRAVEL JUGADORES MARZO 2025.pdf,pdf,pdf,3,True
+229,ESP003,ESP003 Espiche Golf Club,Invoice FAT 95124-231.pdf,pdf,pdf,1,True
+230,ESP003,ESP003 Espiche Golf Club,Invoice FAT 95124-369.pdf,pdf,pdf,1,True
+231,ESP003,ESP003 Espiche Golf Club,Invoice FAT 95124-436.pdf,pdf,pdf,1,True
+232,ESP003,ESP003 Espiche Golf Club,Invoice NCRE 96124-18.pdf,pdf,pdf,1,True
+233,EUR002,EUR002 Eurotunnel,Eurotunnel - CTG-20.06.2025 Direct debit advice.pdf,pdf,pdf,-1,False
+234,EUR002,EUR002 Eurotunnel,Eurotunnel - CTG-30.06.2025 Direct debit advice (1).pdf,pdf,pdf,-1,False
+235,EUR002,EUR002 Eurotunnel,Eurotunnel - CTG-30.06.2025 Direct debit advice.pdf,pdf,pdf,-1,False
+236,Expedia,Expedia EPS,eac-statement-gbp-612924-2025-06-17.xlsx,xlsx,excel,0,True
+237,Expedia,Expedia EPS,eac-statement-gbp-612924-2025-06-24.xlsx,xlsx,excel,0,True
+238,FAI001,FAI001 Fairmont St Andrews,Invoice - YGT - 04.03.2025.pdf,pdf,pdf,1,True
+239,FAI001,FAI001 Fairmont St Andrews,Yourgolftravel Invoice Summary 09.04.2025.pdf,pdf,pdf,1,True
+240,FAI001,FAI001 Fairmont St Andrews,Yourgolftravel Invoice Summary 30.05.2025.pdf,pdf,pdf,1,True
+241,FAI002,FAI002 Fairmont Royal Palm Marrakech,SKM_C3350i25060115150.pdf,pdf,pdf,3,True
+242,FAI002,FAI002 Fairmont Royal Palm Marrakech,SKM_C3350i25060115160.pdf,pdf,pdf,3,True
+243,FAI002,FAI002 Fairmont Royal Palm Marrakech,SKM_C3350i25060115161.pdf,pdf,pdf,3,True
+244,FAI002,FAI002 Fairmont Royal Palm Marrakech,SKM_C3350i25060115162.pdf,pdf,pdf,3,True
+245,FAI002,FAI002 Fairmont Royal Palm Marrakech,SKM_C3350i25062418260.pdf,pdf,pdf,3,True
+246,FOR001,FOR001 Forest of Arden,YGT 42273.pdf,pdf,pdf,3,True
+247,FOR001,FOR001 Forest of Arden,YGT 42316.pdf,pdf,pdf,3,True
+248,FOR001,FOR001 Forest of Arden,YGT 42327.pdf,pdf,pdf,3,True
+249,FOR001,FOR001 Forest of Arden,YGT 42328.pdf,pdf,pdf,3,True
+250,FOR001,FOR001 Forest of Arden,YGT 42343.pdf,pdf,pdf,3,True
+251,FOR001,FOR001 Forest of Arden,YGT 42388.pdf,pdf,pdf,3,True
+252,FOR002,FOR002 DoubleTree by Hilton Forest Pines Golf Resort,YGT Invoice - Forest Pines.xls,xls,excel,1,True
+253,FOR005,FOR005 Formby Hall Golf Resort & Spa,AR Folio 3461.PDF,pdf,pdf,0,True
+254,FOR005,FOR005 Formby Hall Golf Resort & Spa,AR Folio 3462.PDF,pdf,pdf,0,True
+255,FOR005,FOR005 Formby Hall Golf Resort & Spa,AR Folio 3464.PDF,pdf,pdf,0,True
+256,FOR005,FOR005 Formby Hall Golf Resort & Spa,Invoice 3586.PDF,pdf,pdf,0,True
+257,FOT002,FOT002 Fota Island Company,FIR - Invoice SIN057441 - YGT - Clarke.pdf,pdf,pdf,-1,False
+258,FOT002,FOT002 Fota Island Company,Invoice 480205.pdf,pdf,pdf,-1,False
+259,FOT002,FOT002 Fota Island Company,Invoice 480206.pdf,pdf,pdf,-1,False
+260,FOX001,FOX001 Foxhills,Windsor Holdings Ltd - Inv 6963.pdf,pdf,pdf,3,True
+261,FOX001,FOX001 Foxhills,Windsor Holdings Ltd - Inv 7097.pdf,pdf,pdf,3,True
+262,FOX001,FOX001 Foxhills,Windsor Holdings Ltd - Inv 7217.pdf,pdf,pdf,3,True
+263,GDT002,GDT002 Golf Du Touquet,05 - Listing Bookings Netgolf 0105-3105 2025.pdf,pdf,pdf,1,True
+264,GDT002,GDT002 Golf Du Touquet,YGT 2505-R5541.pdf,pdf,pdf,1,True
+265,GEO001,GEO001 Mercure George Washington Hotel Resort & Spa,chain_folio_accor68182653.pdf,pdf,pdf,3,True
+266,GEO001,GEO001 Mercure George Washington Hotel Resort & Spa,chain_folio_accor69434346.pdf,pdf,pdf,3,True
+267,GEO001,GEO001 Mercure George Washington Hotel Resort & Spa,chain_folio_accor69839097.pdf,pdf,pdf,3,True
+268,GLE003,GLE003 The Gleneagles,YGT Visitor Golf Invoices - 13.06.24.xlsx,xlsx,excel,-1,False
+269,GLE003,GLE003 The Gleneagles,YGT Visitor Golf Invoices - 26.08.24.xlsx,xlsx,excel,-1,False
+270,GLE003,GLE003 The Gleneagles,YGT Visitor Golf Invoices -15.05.24.xlsx,xlsx,excel,-1,False
+271,GUA009,GUA009 Golf Son Gual,Factura PROFORMA-3961.pdf ( 08-09.04.2025 ).pdf,pdf,pdf,0,True
+272,GUA009,GUA009 Golf Son Gual,Factura PROFORMA-4080.pdf ( April 2025 ).pdf,pdf,pdf,0,True
+273,GUA009,GUA009 Golf Son Gual,Factura PROFORMA-4158.pdf ( June 2025 ).pdf,pdf,pdf,0,True
+274,HAM006,HAM006 Hampton by Hilton Bournemouth,ANDERSON UK060085 91664.pdf,pdf,pdf,0,True
+275,HAM006,HAM006 Hampton by Hilton Bournemouth,PYLE uk057757 91744.pdf,pdf,pdf,0,True
+276,HAM006,HAM006 Hampton by Hilton Bournemouth,SMITH uk065946 91668.pdf,pdf,pdf,0,True
+277,HAN001,HAN001 Marriott - Hanbury Manor Hotels,HANBURY MANOR YGT statement 30.04.25.xlsx,xlsx,excel,0,True
+278,HAN001,HAN001 Marriott - Hanbury Manor Hotels,HANBURY MANOR YGT statement 31.03.25.xlsx,xlsx,excel,0,True
+279,HAN001,HAN001 Marriott - Hanbury Manor Hotels,HANBURY MANOR YGT statement 31.05.25.xlsx,xlsx,excel,0,True
+280,HAR009,HAR009 GOLF D HARDELOT,20250428_135119.pdf,pdf,pdf,0,True
+281,HAR009,HAR009 GOLF D HARDELOT,20250505_154312.pdf,pdf,pdf,0,True
+282,HAW001,HAW001 Hawkstone Park Limited,HP Your Golf Travel Statement - 05.06.25.xls,xls,excel,0,True
+283,HAW001,HAW001 Hawkstone Park Limited,HP Your Golf Travel Statement - 19.06.25.xls,xls,excel,0,True
+284,HAW001,HAW001 Hawkstone Park Limited,HP Your Golf Travel Statement - 28.05.25.xls,xls,excel,0,True
+285,HEL001,HEL001 Hellidon Lakes Hotel,HL Your Golf Travel Statement - 19.06.25.xls,xls,excel,3,True
+286,HEL001,HEL001 Hellidon Lakes Hotel,HL Your Golf Travel Statement - 28.05.25 (1).xls,xls,excel,3,True
+287,HEL001,HEL001 Hellidon Lakes Hotel,HL Your Golf Travel Statement - 28.05.25.xls,xls,excel,3,True
+288,HER006,HER006 Village Herons Reach,Invoice 3 (1).pdf,pdf,pdf,-1,False
+289,HER006,HER006 Village Herons Reach,Invoice 3 (2).pdf,pdf,pdf,-1,False
+290,HER006,HER006 Village Herons Reach,Invoice 3.pdf,pdf,pdf,-1,False
+291,HIL001,HIL001 MacDonald - Hill Valley Hotel Golf & Spa,YGT Hill Valley (24).xlsx,xlsx,excel,1,True
+292,HIL001,HIL001 MacDonald - Hill Valley Hotel Golf & Spa,YGT Hill Valley (25).xlsx,xlsx,excel,1,True
+293,HIL001,HIL001 MacDonald - Hill Valley Hotel Golf & Spa,YGT Hill Valley (26).xlsx,xlsx,excel,1,True
+294,HIL004,HIL004 Hilton Vilamoura,100014693.pdf,pdf,pdf,2,True
+295,HIL004,HIL004 Hilton Vilamoura,100014697.pdf,pdf,pdf,2,True
+296,HIL004,HIL004 Hilton Vilamoura,100014700.pdf,pdf,pdf,2,True
+297,HIL004,HIL004 Hilton Vilamoura,100014701.pdf,pdf,pdf,2,True
+298,HIL004,HIL004 Hilton Vilamoura,100014726.pdf,pdf,pdf,2,True
+299,HIT001,HIT001 Hilton Bournemouth,21885 MYLES CARTER UK057401.pdf,pdf,pdf,3,True
+300,HIT001,HIT001 Hilton Bournemouth,218886 KIAN LOTZ UK057401.pdf,pdf,pdf,3,True
+301,HIT001,HIT001 Hilton Bournemouth,HARDINGS UK064133 228291.pdf,pdf,pdf,3,True
+302,HIT001,HIT001 Hilton Bournemouth,HARDINGS UK064133 228293.pdf,pdf,pdf,3,True
+303,HOL007,HOL007 Hotel Holiday Inn Le Touquet,FAC 141199-141200-141201-141202-YOURGOLF-REF EU051903-BURTON.pdf,pdf,pdf,2,True
+304,HOL007,HOL007 Hotel Holiday Inn Le Touquet,FAC YOURGOLF-REF EU051580-RYAN LEE-CLARK.pdf,pdf,pdf,2,True
+305,HOL007,HOL007 Hotel Holiday Inn Le Touquet,Facture SHave 2.pdf,pdf,pdf,2,True
+306,HOL007,HOL007 Hotel Holiday Inn Le Touquet,Facture Shave 1.pdf,pdf,pdf,2,True
+307,HOL017,HOL017 Hollins Hall Hotel & Country Club,11769.pdf,pdf,pdf,1,True
+308,HOL017,HOL017 Hollins Hall Hotel & Country Club,12826.pdf,pdf,pdf,1,True
+309,HOL017,HOL017 Hollins Hall Hotel & Country Club,9827.pdf,pdf,pdf,1,True
+310,HOR002,HOR002 Remedy Oak - Horton Golf LTD,Invoice 5284.pdf,pdf,pdf,-1,False
+311,HOR002,HOR002 Remedy Oak - Horton Golf LTD,Invoice 5539.pdf,pdf,pdf,-1,False
+312,HOR002,HOR002 Remedy Oak - Horton Golf LTD,Invoice 5914.pdf,pdf,pdf,-1,False
+313,HPB001,HPB001 Hotel Palmasol Benalmadena,Factura PR - 2402320.pdf,pdf,pdf,0,True
+314,HPB001,HPB001 Hotel Palmasol Benalmadena,Factura proforma 2692299.pdf,pdf,pdf,0,True
+315,HPB001,HPB001 Hotel Palmasol Benalmadena,Proforma 13.05 2703213.pdf,pdf,pdf,0,True
+316,HRH003,HRH003 Hard Rock Hotel Marbella,EU067063-OURREF329483-Bahr.pdf,pdf,pdf,3,True
+317,HRH003,HRH003 Hard Rock Hotel Marbella,Your Golf Travel - Ref EU071339 Our Ref 349749 Pettit x4.pdf,pdf,pdf,3,True
+318,HRH003,HRH003 Hard Rock Hotel Marbella,Your Golf Travel ref EU073960 our ref 362258 Mahoney x4.pdf,pdf,pdf,3,True
+319,Hotelbeds,Hotelbeds,Overdue invoices 1095148.PDF,pdf,pdf,2,True
+320,IBE011,IBE011 Iberostar Club Palmeraie Marrakech,INVOICES YOUR GOLF TRAVEL FOR APRIL 2025 _ IBEROSTAR MARRAKECH.eml,eml,eml,1,True
+321,IBE011,IBE011 Iberostar Club Palmeraie Marrakech,INVOICES YOUR GOLF TRAVEL FOR MARCH 2025 _ IBEROSTAR MARRAKECH.eml,eml,eml,1,True
+322,IBE012,IBE012 Iberostar Founty Beach,346695-FOB.pdf,pdf,pdf,2,True
+323,IBE012,IBE012 Iberostar Founty Beach,346761-FOB.pdf,pdf,pdf,2,True
+324,IBE012,IBE012 Iberostar Founty Beach,347223-FOB.pdf,pdf,pdf,2,True
+325,ISA002,ISA002 Doubletree by Hilton Islantilla Golf Resort,20250314065155630.pdf,pdf,pdf,3,True
+326,ISA002,ISA002 Doubletree by Hilton Islantilla Golf Resort,MARY TIERNEY 01.11.24.pdf,pdf,pdf,3,True
+327,ISA002,ISA002 Doubletree by Hilton Islantilla Golf Resort,Y.pdf,pdf,pdf,3,True
+328,JAR002,JAR002 Hotel Dreams Jardin Tropical,MARGARET PORTER.pdf,pdf,pdf,2,True
+329,JAR002,JAR002 Hotel Dreams Jardin Tropical,PAUL HEYNES.pdf,pdf,pdf,2,True
+330,JAR002,JAR002 Hotel Dreams Jardin Tropical,VERONICA VERNIER.pdf,pdf,pdf,2,True
+331,JRR001,JRR001 Jaal Riad Resort Marrakech - Adults Only,RELEVE YOUR GOLF APRIL 25.xlsx,xlsx,excel,-1,False
+332,JRR001,JRR001 Jaal Riad Resort Marrakech - Adults Only,RELEVE YOUR GOLF MAI 25.xlsx,xlsx,excel,-1,False
+333,JRR001,JRR001 Jaal Riad Resort Marrakech - Adults Only,RELEVE YOUR GOLF MARS 25.xlsx,xlsx,excel,-1,False
+334,KEN015,KEN015 Kenzi Menara Palace,INVOICES 49865.pdf,pdf,pdf,2,True
+335,KEN015,KEN015 Kenzi Menara Palace,INVOICES 49866.pdf,pdf,pdf,2,True
+336,KEN015,KEN015 Kenzi Menara Palace,INVOICES 49926.pdf,pdf,pdf,2,True
+337,KEN015,KEN015 Kenzi Menara Palace,INVOICES 49987.pdf,pdf,pdf,2,True
+338,KEN015,KEN015 Kenzi Menara Palace,INVOICES 50090.pdf,pdf,pdf,2,True
+339,KIL005,KIL005 The K Club,Hall Debbie- 64578.pdf,pdf,pdf,0,True
+340,KIL005,KIL005 The K Club,Hall Richard- 64579.pdf,pdf,pdf,0,True
+341,KIL005,KIL005 The K Club,Hanby Nick -64561.pdf,pdf,pdf,0,True
+342,KIL005,KIL005 The K Club,Hanby Nick- 64566.pdf,pdf,pdf,0,True
+343,KIL005,KIL005 The K Club,Holt Mike- 64586.pdf,pdf,pdf,0,True
+344,KIL005,KIL005 The K Club,Howitt Sean- 64570.pdf,pdf,pdf,0,True
+345,LAC004,LAC004 La Cala Golf Club,Factura-000122604-Your Golf Travel Ltd..pdf,pdf,pdf,-1,False
+346,LAC004,LAC004 La Cala Golf Club,Factura-000122684-Your Golf Travel Ltd..pdf,pdf,pdf,-1,False
+347,LAC004,LAC004 La Cala Golf Club,Factura-000122804-Your Golf Travel Ltd..pdf,pdf,pdf,-1,False
+348,LAC005,LAC005 La Cala Hotel,Bland 18.07.25.pdf,pdf,pdf,3,True
+349,LAC005,LAC005 La Cala Hotel,Burke 05.07.25.pdf,pdf,pdf,3,True
+350,LAC005,LAC005 La Cala Hotel,Clifford 27.07.25.pdf,pdf,pdf,3,True
+351,LAC005,LAC005 La Cala Hotel,Grover 13.07.25.pdf,pdf,pdf,3,True
+352,LAC005,LAC005 La Cala Hotel,Hill 10.07.25.pdf,pdf,pdf,3,True
+353,LAK002,LAK002 Domes Lake Algarve,WE LOVE HOLIDAYS LTD Invoice 1008027.pdf,pdf,pdf,-1,False
+354,LAK002,LAK002 Domes Lake Algarve,YOUR GOLF TRAVEL invoice 1008193.pdf,pdf,pdf,-1,False
+355,LAK002,LAK002 Domes Lake Algarve,Your Golf Travel Ltd Invoice 143666.pdf,pdf,pdf,-1,False
+356,LEO005,LEO005 Leonardo Plaza Cypria Maris Beach Hotel & Spa,921105652.pdf,pdf,pdf,0,True
+357,LEO005,LEO005 Leonardo Plaza Cypria Maris Beach Hotel & Spa,921106949.pdf,pdf,pdf,0,True
+358,LEO005,LEO005 Leonardo Plaza Cypria Maris Beach Hotel & Spa,921109044.pdf,pdf,pdf,0,True
+359,LIG002,LIG002 The Lighthouse Golf & Spa Resort,invoice_7000002952 YGT.pdf,pdf,pdf,0,True
+360,LIG002,LIG002 The Lighthouse Golf & Spa Resort,П8114 YGT EU035374.pdf,pdf,pdf,0,True
+361,LIG002,LIG002 The Lighthouse Golf & Spa Resort,П8182 YGT EU036945.pdf,pdf,pdf,0,True
+362,LIN002,LIN002 MacDonald - Linden Hall Golf & Country Club,YGT Linden (1).xlsx,xlsx,excel,2,True
+363,LIN002,LIN002 MacDonald - Linden Hall Golf & Country Club,YGT Linden (2).xlsx,xlsx,excel,2,True
+364,LIN002,LIN002 MacDonald - Linden Hall Golf & Country Club,YGT Linden.xlsx,xlsx,excel,2,True
+365,LIN007,LIN007 Marriott - Lingfield Park,360909 Savage.pdf,pdf,pdf,0,True
+366,LIN007,LIN007 Marriott - Lingfield Park,362751 NORRIS ANTHONY.pdf,pdf,pdf,0,True
+367,LIN007,LIN007 Marriott - Lingfield Park,362771 MALLON JAMIE.pdf,pdf,pdf,0,True
+368,LOP001,LOP001 Lopesan Villa del Conde Resort,loplvc_ar_folio_en_45641269.PDF,pdf,pdf,2,True
+369,LOP001,LOP001 Lopesan Villa del Conde Resort,loplvc_ar_folio_en_46803384.PDF,pdf,pdf,2,True
+370,LOP001,LOP001 Lopesan Villa del Conde Resort,loplvc_ar_folio_en_46803538.PDF,pdf,pdf,2,True
+371,LOR002,LOR002 San Lorenzo Golf,FT20251222.pdf,pdf,pdf,2,True
+372,LOR002,LOR002 San Lorenzo Golf,FT20251243.pdf,pdf,pdf,2,True
+373,LOR002,LOR002 San Lorenzo Golf,FT20251256.pdf,pdf,pdf,2,True
+374,LOS003,LOS003 Los Arqueros Golf & CC,BREAKDOWN YOUR GOLF TRAVEL.xlsx,xlsx,excel,3,True
+375,LOS003,LOS003 Los Arqueros Golf & CC,BREAKDOWN YOURGOLFTRAVEL.xlsx,xlsx,excel,3,True
+376,LOS003,LOS003 Los Arqueros Golf & CC,FACTURA 236 YOURGOLFTRAVEL.pdf,pdf,pdf,3,True
+377,LOS003,LOS003 Los Arqueros Golf & CC,FACTURA 380 YOUR GOLF TRAVEL.pdf,pdf,pdf,3,True
+378,LOS003,LOS003 Los Arqueros Golf & CC,FACTURA 420 YOURGOLFTRAVEL.pdf,pdf,pdf,3,True
+379,LUM002,LUM002 Infinitum Golf,5400000387 YOUR GOLF TRAVEL.pdf,pdf,pdf,3,True
+380,LUM002,LUM002 Infinitum Golf,5400000396 YOURGOLF TRAVEL.pdf,pdf,pdf,3,True
+381,LUM002,LUM002 Infinitum Golf,5400000431 YOURGOLF TRAVEL.pdf,pdf,pdf,3,True
+382,LUM002,LUM002 Infinitum Golf,5400000434 YOURGOLF TRAVEL.pdf,pdf,pdf,3,True
+383,LZG001,LZG001 La Zagaleta Golf Club,F01062025_103842_15.pdf,pdf,pdf,-1,False
+384,LZG001,LZG001 La Zagaleta Golf Club,F02102024_143730_15.pdf,pdf,pdf,-1,False
+385,LZG001,LZG001 La Zagaleta Golf Club,YOUR GOLF TRAVEL CREDITO.pdf,pdf,pdf,-1,False
+386,MAC025,MAC025 Sandos Griego Hotel,YGT 11-5 KNOWLES.xlsx,xlsx,excel,1,True
+387,MAC025,MAC025 Sandos Griego Hotel,YOURGOLF 16-06-25 EU068288 DANIEL JONES.xlsx,xlsx,excel,1,True
+388,MAC025,MAC025 Sandos Griego Hotel,YOURGOLF 16-07-25 EU066705 WILLIAM HOLDEN.xlsx,xlsx,excel,1,True
+389,MAD004,MAD004 Hotel Las Madrigueras,CLARKE YOUR GOLF TRAVEL.pdf,pdf,pdf,0,True
+390,MAD004,MAD004 Hotel Las Madrigueras,DAVEY EU051929 YOUR GOLF TRAVEL.pdf,pdf,pdf,0,True
+391,MAD004,MAD004 Hotel Las Madrigueras,SIMMS YOUR GOLF TRAVEL.pdf,pdf,pdf,0,True
+392,MAG006,MAG006 The Magnolia Hotel,EU022450.pdf,pdf,pdf,1,True
+393,MAG006,MAG006 The Magnolia Hotel,EU049225.pdf,pdf,pdf,1,True
+394,MAG006,MAG006 The Magnolia Hotel,FA_1020201_4983_EU045308.pdf,pdf,pdf,1,True
+395,MAG006,MAG006 The Magnolia Hotel,FA_1020201_4998_EU047913.pdf,pdf,pdf,1,True
+396,MAN001,MAN001 Manor of Groves,Your Golf Travel MGINV025130.pdf,pdf,pdf,0,True
+397,MAN001,MAN001 Manor of Groves,Your Golf Travel MGINV025239.pdf,pdf,pdf,0,True
+398,MAN001,MAN001 Manor of Groves,Your Golf Travel MGINV025353.pdf,pdf,pdf,0,True
+399,MAN008,MAN008 La Manga,YOUR GOLF TRAVEL LTD - 3000033993.xlsx,xlsx,excel,1,True
+400,MAO001,MAO001 Ashbury Manor Hotel,YGT APRIL 25 INVOICES.pdf,pdf,pdf,3,True
+401,MAO001,MAO001 Ashbury Manor Hotel,YGT INVOICES MAY 25.pdf,pdf,pdf,3,True
+402,MAO001,MAO001 Ashbury Manor Hotel,YGT MARCH 25 INVOICE.pdf,pdf,pdf,3,True
+403,MAR012,MAR012 Marbella Golf & Country Club,F01042025_132715_211.pdf,pdf,pdf,0,True
+404,MAR012,MAR012 Marbella Golf & Country Club,F03022025_145213_211.pdf,pdf,pdf,0,True
+405,MAR012,MAR012 Marbella Golf & Country Club,F26052025_110122_211.pdf,pdf,pdf,0,True
+406,MER005,MER005 Grand Hotel Le Touquet,HAYLETT PAUL EU057920.pdf,pdf,pdf,2,True
+407,MER005,MER005 Grand Hotel Le Touquet,PEARSON KEVIN EU067400.pdf,pdf,pdf,2,True
+408,MER005,MER005 Grand Hotel Le Touquet,WRAIGHT PAUL EU057024.pdf,pdf,pdf,2,True
+409,MIJ002,MIJ002 Mijas Golf Club,792 F (1).PDF,pdf,pdf,0,True
+410,MIJ002,MIJ002 Mijas Golf Club,792 F (2).PDF,pdf,pdf,0,True
+411,MIJ002,MIJ002 Mijas Golf Club,792 F.PDF,pdf,pdf,0,True
+412,MON016,MON016 Wyndham Grand Algarve,Fatura_52838.pdf,pdf,pdf,1,True
+413,MON016,MON016 Wyndham Grand Algarve,Fatura_53573.pdf,pdf,pdf,1,True
+414,MON016,MON016 Wyndham Grand Algarve,Fatura_54624.pdf,pdf,pdf,1,True
+415,MOT001,MOT001 Mottram Hall,MH YGT  2025 (1).xlsx,xlsx,excel,-1,False
+416,MOT001,MOT001 Mottram Hall,MH YGT  2025 (2).xlsx,xlsx,excel,-1,False
+417,MOT001,MOT001 Mottram Hall,MH YGT  2025.xlsx,xlsx,excel,-1,False
+418,Macdonald,Macdonald Portal,Your Golf Travel 13.06.2025.xlsx,xlsx,excel,1,True
+419,Marriott,Marriott Tudor Park,451310.pdf,pdf,pdf,1,True
+420,Marriott,Marriott Tudor Park,451313.pdf,pdf,pdf,1,True
+421,Marriott,Marriott Tudor Park,451361.pdf,pdf,pdf,1,True
+422,Marriott,Marriott Tudor Park,451382.pdf,pdf,pdf,1,True
+423,NAR002,NAR002 Los Naranjos Golf Club,F01042025_114010_250.pdf,pdf,pdf,-1,False
+424,NAR002,NAR002 Los Naranjos Golf Club,F02062025_153632_250.pdf,pdf,pdf,-1,False
+425,NAR002,NAR002 Los Naranjos Golf Club,F04032025_142919_250.pdf,pdf,pdf,-1,False
+426,NOR011,NOR011 The North Shore Hotel,INV003728.pdf,pdf,pdf,3,True
+427,NOR011,NOR011 The North Shore Hotel,INV003734.pdf,pdf,pdf,3,True
+428,NOR011,NOR011 The North Shore Hotel,INV003735.pdf,pdf,pdf,3,True
+429,NOT004,NOT004 Nottinghamshire Golf & Country Club,138199-invoice-plu-summary-ja.thompson20250522124852.pdf,pdf,pdf,1,True
+430,NOT004,NOT004 Nottinghamshire Golf & Country Club,138207-invoice-full-plu-information-ja.thompson20250522165455.pdf,pdf,pdf,1,True
+431,NOT004,NOT004 Nottinghamshire Golf & Country Club,138207-invoice-plu-summary-ja.thompson20250522124923.pdf,pdf,pdf,1,True
+432,Noyan,Noyan,31-03-2025 EBD LİST.xlsx,xlsx,excel,2,True
+433,Noyan,Noyan,FW_ 31_03_2025 EBD LIST.eml,eml,eml,2,True
+434,Noyan,Noyan,YGT TOTAL OPEN BALANCE LIST (13).xlsx,xlsx,excel,2,True
+435,OCE007,OCE007 Dom Pedro,Invoice FAT 95125-1306 Your Golf Travel.pdf,pdf,pdf,2,True
+436,OCF002,OCF002 Occidental Fuengirola,EU043648.pdf,pdf,pdf,-1,False
+437,OCF002,OCF002 Occidental Fuengirola,EU049971.pdf,pdf,pdf,-1,False
+438,OCF002,OCF002 Occidental Fuengirola,EU062958.pdf,pdf,pdf,-1,False
+439,OGC003,OGC003 Ombria Golf Course,OGC - YOUR GOLF TRAVEL - FAT 95124-389.pdf,pdf,pdf,0,True
+440,OGC003,OGC003 Ombria Golf Course,OGC - YOUR GOLF TRAVEL - FAT 95124-439.pdf,pdf,pdf,0,True
+441,OGC003,OGC003 Ombria Golf Course,Proforma FPRO 86124-535.pdf,pdf,pdf,0,True
+442,OLD001,OLD001 Old Thorns Golf & Country Estate,06. 19-05-25 YGT - Invs.xlsx,xlsx,excel,1,True
+443,OLD001,OLD001 Old Thorns Golf & Country Estate,08. 31-05-25 YGT - Invs.xlsx,xlsx,excel,1,True
+444,OLD001,OLD001 Old Thorns Golf & Country Estate,10. 20-06-25 YGT - Invs.xlsx,xlsx,excel,1,True
+445,OLD004,OLD004 Old Course Hotel St Andrews,YGT - UK037541 Whitefield 142378.pdf,pdf,pdf,3,True
+446,OLD004,OLD004 Old Course Hotel St Andrews,YGT - UK049824 Greenwood 173955.pdf,pdf,pdf,3,True
+447,OLD004,OLD004 Old Course Hotel St Andrews,YGT - UK056753 Thompson 156763.pdf,pdf,pdf,3,True
+448,OLD004,OLD004 Old Course Hotel St Andrews,YGT - UK064477 McClymont 165915.pdf,pdf,pdf,3,True
+449,OPB001,OPB001 Occidental Puerto Banus,2508863.pdf,pdf,pdf,0,True
+450,OPB001,OPB001 Occidental Puerto Banus,2509157.pdf,pdf,pdf,0,True
+451,OPB001,OPB001 Occidental Puerto Banus,2509616.pdf,pdf,pdf,0,True
+452,OPB001,OPB001 Occidental Puerto Banus,2509875.pdf,pdf,pdf,0,True
+453,OPB001,OPB001 Occidental Puerto Banus,2509876.pdf,pdf,pdf,0,True
+454,OPB001,OPB001 Occidental Puerto Banus,2509877.pdf,pdf,pdf,0,True
+455,OPB001,OPB001 Occidental Puerto Banus,2510070.pdf,pdf,pdf,0,True
+456,OUL001,OUL001 Q Hotels - Oulton Hall,YGT Statement 13.06.25.xlsx,xlsx,excel,3,True
+457,OUL001,OUL001 Q Hotels - Oulton Hall,YGT Statement 16.05.25.xlsx,xlsx,excel,3,True
+458,OUL001,OUL001 Q Hotels - Oulton Hall,YGT Statement 25.04.25.xlsx,xlsx,excel,3,True
+459,OXF001,OXF001 The Oxfordshire Golf Hotel & Spa,YGT-215793-Phillips.PDF,pdf,pdf,0,True
+460,OXF001,OXF001 The Oxfordshire Golf Hotel & Spa,YGT-215798-Kretowicz.PDF,pdf,pdf,0,True
+461,OXF001,OXF001 The Oxfordshire Golf Hotel & Spa,YGT-215799-Howard.PDF,pdf,pdf,0,True
+462,OXF001,OXF001 The Oxfordshire Golf Hotel & Spa,YGT-215809-Valentine.PDF,pdf,pdf,0,True
+463,OXF001,OXF001 The Oxfordshire Golf Hotel & Spa,YGT-215844-Gladwin.PDF,pdf,pdf,0,True
+464,PAD001,PAD001 Anantara Villa Padierna Palace,08.09.24 Mrs. Sharon Jerram.pdf,pdf,pdf,1,True
+465,PAD001,PAD001 Anantara Villa Padierna Palace,12.05 Mrs. Ryan-Bell.pdf,pdf,pdf,1,True
+466,PAD001,PAD001 Anantara Villa Padierna Palace,24.07.24 Mr. Richard Staveley.pdf,pdf,pdf,1,True
+467,PAL007,PAL007 Pickalbatros Hotel Du Golf,F 20572.pdf,pdf,pdf,0,True
+468,PAL007,PAL007 Pickalbatros Hotel Du Golf,F 22209.pdf,pdf,pdf,0,True
+469,PAL007,PAL007 Pickalbatros Hotel Du Golf,F20113.pdf,pdf,pdf,0,True
+470,PAL009,PAL009 Palmares Golf,FT 6786_Your Golf Travel_4270€.pdf,pdf,pdf,3,True
+471,PAL009,PAL009 Palmares Golf,FT 6985_YourGolfTravel_8659€.pdf,pdf,pdf,3,True
+472,PAL009,PAL009 Palmares Golf,FT 7221_Your Golf Travel_10058€.pdf,pdf,pdf,3,True
+473,PAL012,PAL012 Palacio Estoril Hotel,FA_1022201_12323 (1).pdf,pdf,pdf,1,True
+474,PAL012,PAL012 Palacio Estoril Hotel,FA_1022201_12324 (1).pdf,pdf,pdf,1,True
+475,PAL012,PAL012 Palacio Estoril Hotel,FA_1022201_12326 (1).pdf,pdf,pdf,1,True
+476,PAL012,PAL012 Palacio Estoril Hotel,FA_1022201_12328 (1).pdf,pdf,pdf,1,True
+477,PAR004,PAR004 NAJETI Hotel du Parc (Hardelot),2127226_PA_Facture de_taille_e.pdf,pdf,pdf,-1,False
+478,PAR004,PAR004 NAJETI Hotel du Parc (Hardelot),2128795_PA_Facture de_taille_e.pdf,pdf,pdf,-1,False
+479,PAR004,PAR004 NAJETI Hotel du Parc (Hardelot),2145804_PA_Facture de_taille_e.pdf,pdf,pdf,-1,False
+480,PEB001,PEB001 Pebble Beach Resorts,Your Golf Travel #13073L April 2025 Invoice.pdf,pdf,pdf,0,True
+481,PEB001,PEB001 Pebble Beach Resorts,Your Golf Travel #13073L March 2025 Invoice.pdf,pdf,pdf,0,True
+482,PEB001,PEB001 Pebble Beach Resorts,Your Golf Travel #13073L May 2025 Invoice.pdf,pdf,pdf,0,True
+483,PEN003,PEN003 Penina Hotel & Golf Resort,Inv 2233 Goodfellow_EU057591.pdf,pdf,pdf,2,True
+484,PEN003,PEN003 Penina Hotel & Golf Resort,Inv 2242 Maslin_EU059397.pdf,pdf,pdf,2,True
+485,PEN003,PEN003 Penina Hotel & Golf Resort,Inv 2252.pdf,pdf,pdf,2,True
+486,PEN004,PEN004 Penha Longa Hotel & Golf Resort,Estimated Costs YGT - Graham Turner 06.06.2025.pdf,pdf,pdf,2,True
+487,PEN004,PEN004 Penha Longa Hotel & Golf Resort,Estimated Costs YGT - Kenneth Hamilton 05.06.2025.pdf,pdf,pdf,2,True
+488,PEN004,PEN004 Penha Longa Hotel & Golf Resort,Estimated Costs YGT - Mark Jones 09.06.2025.pdf,pdf,pdf,2,True
+489,PEN004,PEN004 Penha Longa Hotel & Golf Resort,Estimated Costs YGT - Mike Lindley 31.05.2025.pdf,pdf,pdf,2,True
+490,PEN004,PEN004 Penha Longa Hotel & Golf Resort,Estimated Costs YGT - Stephen Surplus 10 and 14.06.2025.pdf,pdf,pdf,2,True
+491,PEN004,PEN004 Penha Longa Hotel & Golf Resort,Estimated Costs YGT_ Mrs Colette Russell.pdf,pdf,pdf,2,True
+492,PGA005,PGA005 PGA Camiral Golf & Wellness ,25GHM-F06312.pdf,pdf,pdf,0,True
+493,PGA005,PGA005 PGA Camiral Golf & Wellness ,25GHM-F06876.pdf,pdf,pdf,0,True
+494,PGA005,PGA005 PGA Camiral Golf & Wellness ,25GHM-F07179.pdf,pdf,pdf,0,True
+495,PLA001,PLA001 Players,OUTSTANDING INVOICES YOUR GOLF TRAVEL 2025.pdf,pdf,pdf,1,True
+496,PLA001,PLA001 Players,YOUR GOLF TRAVEL STATEMENT 2025.pdf,pdf,pdf,1,True
+497,PLA002,PLA002 The Waterfront Hotel Southport,INV011397.pdf,pdf,pdf,3,True
+498,PLA002,PLA002 The Waterfront Hotel Southport,INV011412.pdf,pdf,pdf,3,True
+499,PLA002,PLA002 The Waterfront Hotel Southport,INV011424.pdf,pdf,pdf,3,True
+500,POR009,POR009 Portmarnock HOTEL & Golf Links,1611.PDF,pdf,pdf,0,True
+501,POR009,POR009 Portmarnock HOTEL & Golf Links,"Trow, Claire 1583.PDF",pdf,pdf,0,True
+502,POR009,POR009 Portmarnock HOTEL & Golf Links,Your Golf Travel Ltd 1602.PDF,pdf,pdf,0,True
+503,PRI002,PRI002 Prince_s Golf Club,YGT01 INV 17668 JANUARY.pdf,pdf,pdf,-1,False
+504,PRI002,PRI002 Prince_s Golf Club,YGT01 INV 17711 FEB.pdf,pdf,pdf,-1,False
+505,PRI002,PRI002 Prince_s Golf Club,YGT01 INV 17818 MAY.pdf,pdf,pdf,-1,False
+506,PUC001,PUC001 Hilton - Puckrup Hall Hotel,Your Golf Travel 5th week Template_puckrup hall.xlsx,xlsx,excel,1,True
+507,PUC001,PUC001 Hilton - Puckrup Hall Hotel,Your Golf Travel Template - Puckrup Hall 2nd week.xlsx,xlsx,excel,1,True
+508,PUC001,PUC001 Hilton - Puckrup Hall Hotel,Your Golf Travel Template - Puckrup Hall 3rd  week.xlsx,xlsx,excel,1,True
+509,PYR003,PYR003 PYR FUENGIROLA,Historico facturas (1).pdf,pdf,pdf,-1,False
+510,PYR003,PYR003 PYR FUENGIROLA,Historico facturas (2).pdf,pdf,pdf,-1,False
+511,PYR003,PYR003 PYR FUENGIROLA,Historico facturas.pdf,pdf,pdf,-1,False
+512,Pestana,Pestana CAR018,303_FT303P010270_2025.pdf,pdf,pdf,-1,False
+513,Pestana,Pestana CAR018,303_FT303P010271_2025.pdf,pdf,pdf,-1,False
+514,Praia,Praia Del Rey,FAT 95G125-876.pdf,pdf,pdf,1,True
+515,Praia,Praia Del Rey,FAT 95P125-825.pdf,pdf,pdf,1,True
+516,Q,Q Dunston Hall,Hazell 325848 UK061208.pdf,pdf,pdf,0,True
+517,QUI007,QUI007 Quinta Do Lago Golf,YGT G 2079.pdf,pdf,pdf,2,True
+518,QUI007,QUI007 Quinta Do Lago Golf,YGT G 2299_006.pdf,pdf,pdf,2,True
+519,QUI007,QUI007 Quinta Do Lago Golf,YGT G 2304_006.pdf,pdf,pdf,2,True
+520,QUI008,QUI008 La Quinta Golf & Country Club,4297106801.pdf,pdf,pdf,3,True
+521,QUI008,QUI008 La Quinta Golf & Country Club,4297107014.pdf,pdf,pdf,3,True
+522,QUI008,QUI008 La Quinta Golf & Country Club,4297107014a.pdf,pdf,pdf,3,True
+523,QUI008,QUI008 La Quinta Golf & Country Club,4297107252.pdf,pdf,pdf,3,True
+524,QUI012,QUI012 Hotel Quinta Do Lago,Mr Doocey.pdf,pdf,pdf,3,True
+525,QUI012,QUI012 Hotel Quinta Do Lago,Mr Sheridan01.pdf,pdf,pdf,3,True
+526,QUI012,QUI012 Hotel Quinta Do Lago,Tom Shaw Group.pdf,pdf,pdf,3,True
+527,RAM002,RAM002 Ramside Hall Hotel and Golf Club,INV75143 YOU103 UK071217 RS.pdf,pdf,pdf,0,True
+528,RAM002,RAM002 Ramside Hall Hotel and Golf Club,INV75148 YOU103 UK064003 RS.pdf,pdf,pdf,0,True
+529,RAM002,RAM002 Ramside Hall Hotel and Golf Club,INV75161 YOU103 UK75164 RS.pdf,pdf,pdf,0,True
+530,RAM002,RAM002 Ramside Hall Hotel and Golf Club,INV75162 YOU103 UK062822 RS.pdf,pdf,pdf,0,True
+531,RAM002,RAM002 Ramside Hall Hotel and Golf Club,INV75164 YOU103 UK047176 RS.pdf,pdf,pdf,0,True
+532,RED003,RED003 Hotel Red Fox,Scan2025-04-02_210531.pdf,pdf,pdf,0,True
+533,RED003,RED003 Hotel Red Fox,Scan2025-05-01_110355.pdf,pdf,pdf,0,True
+534,RED003,RED003 Hotel Red Fox,Scan2025-06-05_161108.pdf,pdf,pdf,0,True
+535,RIO003,RIO003 Rio Real Golf Hotel S.L.,factura (41).pdf,pdf,pdf,1,True
+536,RIO003,RIO003 Rio Real Golf Hotel S.L.,factura (42).pdf,pdf,pdf,1,True
+537,RIO003,RIO003 Rio Real Golf Hotel S.L.,factura.pdf,pdf,pdf,1,True
+538,RIU003,RIU003 Clubhotel Riu Tikida Palmeraie,ASKEY_MATTHEW.pdf,pdf,pdf,1,True
+539,RIU003,RIU003 Clubhotel Riu Tikida Palmeraie,EU041953.pdf,pdf,pdf,1,True
+540,RIU003,RIU003 Clubhotel Riu Tikida Palmeraie,your golf ( EU031424 ).pdf,pdf,pdf,1,True
+541,RIX003,RIX003 Rixos Saadiyat Island,1289.pdf,pdf,pdf,2,True
+542,RIX003,RIX003 Rixos Saadiyat Island,486290712.pdf,pdf,pdf,2,True
+543,RIX003,RIX003 Rixos Saadiyat Island,486295338.pdf,pdf,pdf,2,True
+544,RIX003,RIX003 Rixos Saadiyat Island,"643253, 643254, 643255.pdf",pdf,pdf,2,True
+545,ROB002,ROB002 Robinson Club Quinta Da Ria,2024-09-25 Payne PF.pdf,pdf,pdf,3,True
+546,ROB002,ROB002 Robinson Club Quinta Da Ria,2025-04-23 O´Brien PF.pdf,pdf,pdf,3,True
+547,ROB002,ROB002 Robinson Club Quinta Da Ria,2025-05-14 Hicks PF.pdf,pdf,pdf,3,True
+548,ROT005,ROT005 Media Rotana Hotel,409545219 (1).PDF,pdf,pdf,2,True
+549,ROT005,ROT005 Media Rotana Hotel,PI-20096.pdf,pdf,pdf,2,True
+550,ROT005,ROT005 Media Rotana Hotel,PI-20667.pdf,pdf,pdf,2,True
+551,RPT004,RPT004 Royal Private Transfers,Factura-0000-2025-54.pdf,pdf,pdf,0,True
+552,RPT004,RPT004 Royal Private Transfers,Factura-0000-2025-87.pdf,pdf,pdf,0,True
+553,RPT004,RPT004 Royal Private Transfers,Factura-0002-2025-34.pdf,pdf,pdf,0,True
+554,SAM003,SAM003 Samanah Golf Management,YGT FACTURE  2025-03-0344 MARS 25 (1).pdf,pdf,pdf,-1,False
+555,SAM003,SAM003 Samanah Golf Management,YGT FACTURE  2025-04-0395 AVRIL 25.pdf,pdf,pdf,-1,False
+556,SAM003,SAM003 Samanah Golf Management,YGT FACTURE  2025-05-476 MAI 25.pdf,pdf,pdf,-1,False
+557,SAN003,SAN003 Sandford Springs,92570.PDF,pdf,pdf,0,True
+558,SAN003,SAN003 Sandford Springs,92639.PDF,pdf,pdf,0,True
+559,SAN003,SAN003 Sandford Springs,92642.PDF,pdf,pdf,0,True
+560,SAN003,SAN003 Sandford Springs,92646.PDF,pdf,pdf,0,True
+561,SAN003,SAN003 Sandford Springs,92679.PDF,pdf,pdf,0,True
+562,SAN015,SAN015 Santana Golf and Country Club,F02052025_110352_263.pdf,pdf,pdf,1,True
+563,SAN015,SAN015 Santana Golf and Country Club,F02062025_132115_263.pdf,pdf,pdf,1,True
+564,SAN015,SAN015 Santana Golf and Country Club,F31032025_155815_263.pdf,pdf,pdf,1,True
+565,SAN018,SAN018 Sandy Lane,December Invoices -  Your Golf.pdf,pdf,pdf,2,True
+566,SAN018,SAN018 Sandy Lane,February Invoices - Your Golf.pdf,pdf,pdf,2,True
+567,SAN018,SAN018 Sandy Lane,November Invoices - Your Golf Travel.pdf,pdf,pdf,2,True
+568,SAO002,SAO002 NAU Hotels Golf and Resorts S.A,900026453.pdf,pdf,pdf,0,True
+569,SAO002,SAO002 NAU Hotels Golf and Resorts S.A,900026454.pdf,pdf,pdf,0,True
+570,SAO002,SAO002 NAU Hotels Golf and Resorts S.A,900026455.pdf,pdf,pdf,0,True
+571,SAO002,SAO002 NAU Hotels Golf and Resorts S.A,Account Statement YGT  SALGADOS 19.05.2025.xlsx,xlsx,excel,0,True
+572,SAU001,SAU001 Saunton Golf Club,YGT- Aled Rowlands.pdf,pdf,pdf,0,True
+573,SAU001,SAU001 Saunton Golf Club,YGT- Gareth Roper.pdf,pdf,pdf,0,True
+574,SAU001,SAU001 Saunton Golf Club,YGT- Paul Fraser.pdf,pdf,pdf,0,True
+575,SAW001,SAW001 Sawgrass Marriott Golf Resort & Spa,YGT New Invoices 05.22.2025.xlsb,xlsb,excel,-1,False
+576,SAW001,SAW001 Sawgrass Marriott Golf Resort & Spa,YGT New Invoices 06.03.2025.xlsb,xlsb,excel,-1,False
+577,SHE001,SHE001 Shendish Manor,UK068123 Cliffe.pdf,pdf,pdf,1,True
+578,SHE001,SHE001 Shendish Manor,UK071183 Kapur.pdf,pdf,pdf,1,True
+579,SHE001,SHE001 Shendish Manor,UK071460 Schroepfer.pdf,pdf,pdf,1,True
+580,SHE001,SHE001 Shendish Manor,UK073377 O_Hara.pdf,pdf,pdf,1,True
+581,SHE012,SHE012 Sheraton Mallorca (Arabella),Your Golf Travel 12.10.23.pdf,pdf,pdf,1,True
+582,SHE012,SHE012 Sheraton Mallorca (Arabella),Your Golf Travel 13.10.23.pdf,pdf,pdf,1,True
+583,SHE012,SHE012 Sheraton Mallorca (Arabella),Your Golf travel 09.10.23.pdf,pdf,pdf,1,True
+584,SHE012,SHE012 Sheraton Mallorca (Arabella),Your golf travel Sra. French 13.10.23.pdf,pdf,pdf,1,True
+585,SHI002,SHI002 Shrigley Hall Hotel Golf and Country Club,YGT Invoicing Template February 2025.xlsx,xlsx,excel,1,True
+586,SHI002,SHI002 Shrigley Hall Hotel Golf and Country Club,YGT Invoicing Template March 2025.xlsx,xlsx,excel,1,True
+587,SHI002,SHI002 Shrigley Hall Hotel Golf and Country Club,YGT Invoicing Template May 2025.xlsx,xlsx,excel,1,True
+588,SLA001,SLA001 Slaley Hall,27.05.25 YGT Supplier Invoice processing YGT.xlsx,xlsx,excel,3,True
+589,SLI006,SLI006 Slieve Russell Hotel,YourGolf (Invoice 1675).PDF,pdf,pdf,2,True
+590,SLI006,SLI006 Slieve Russell Hotel,Yourgolf Travel (Invoice 1528).pdf,pdf,pdf,2,True
+591,SLI006,SLI006 Slieve Russell Hotel,Yourgolf Travel (Invoice 1624).PDF,pdf,pdf,2,True
+592,SLI006,SLI006 Slieve Russell Hotel,Yourgolf Travel (Invoice 3563).pdf,pdf,pdf,2,True
+593,SOF006,SOF006 Sofitel Marrakech Lounge & Spa,EU041590 (1).pdf,pdf,pdf,0,True
+594,SOF006,SOF006 Sofitel Marrakech Lounge & Spa,Mr DOWNEY JOHN.pdf,pdf,pdf,0,True
+595,SOF006,SOF006 Sofitel Marrakech Lounge & Spa,O_NEILL NV (1).pdf,pdf,pdf,0,True
+596,SOL006,SOL006 Pestana Vila Sol,301_FT301H090862_2025.pdf,pdf,pdf,1,True
+597,SOL006,SOL006 Pestana Vila Sol,301_FT301H090876_2025.pdf,pdf,pdf,1,True
+598,SOL006,SOL006 Pestana Vila Sol,301_FT301H090878_2025.pdf,pdf,pdf,1,True
+599,SOL010,SOL010 Golf Du Soleil,30573.pdf,pdf,pdf,0,True
+600,SOL010,SOL010 Golf Du Soleil,30800.pdf,pdf,pdf,0,True
+601,SOL010,SOL010 Golf Du Soleil,30817.pdf,pdf,pdf,0,True
+602,SOL010,SOL010 Golf Du Soleil,30869.pdf,pdf,pdf,0,True
+603,SOL010,SOL010 Golf Du Soleil,31236.pdf,pdf,pdf,0,True
+604,SON005,SON005 Son Caliu Hotel Spa Oasis,FACTURA YOURGOLFTRAVEL SCN 1680.pdf,pdf,pdf,0,True
+605,SON005,SON005 Son Caliu Hotel Spa Oasis,FACTURA YOURGOLFTRAVEL SCN 1997.pdf,pdf,pdf,0,True
+606,SON005,SON005 Son Caliu Hotel Spa Oasis,FACTURA YOURGOLFTRAVEL SCN 615.pdf,pdf,pdf,0,True
+607,SON005,SON005 Son Caliu Hotel Spa Oasis,YGT ABRIL.pdf,pdf,pdf,0,True
+608,SON005,SON005 Son Caliu Hotel Spa Oasis,YGT octubre.pdf,pdf,pdf,0,True
+609,STA001,STA001 Staverton Park Hotel and Golf Club,stavz1_ar_folio_vat_curr_option3_inc_bank_2349147429.PDF,pdf,pdf,0,True
+610,STA001,STA001 Staverton Park Hotel and Golf Club,stavz1_ar_folio_vat_curr_option3_inc_bank_2349147476.PDF,pdf,pdf,0,True
+611,STA001,STA001 Staverton Park Hotel and Golf Club,stavz1_ar_statement_xmlp6_2349147426.PDF,pdf,pdf,0,True
+612,STM001,STM001 St Mellion International,St Mellion Estate YGT - April Invoice.pdf,pdf,pdf,3,True
+613,STM001,STM001 St Mellion International,St Mellion Estate YGT - June Invoice.pdf,pdf,pdf,3,True
+614,STM001,STM001 St Mellion International,St Mellion Estate YGT - May Invoice.pdf,pdf,pdf,3,True
+615,STO001Stoke,STO001Stoke By Nayland Hotel Golf & Spa,Folio496 (1).pdf,pdf,pdf,1,True
+616,STO001Stoke,STO001Stoke By Nayland Hotel Golf & Spa,Folio496.pdf,pdf,pdf,1,True
+617,STO001Stoke,STO001Stoke By Nayland Hotel Golf & Spa,Folio547.pdf,pdf,pdf,1,True
+618,STP001,STP001 Marriott - St Pierre,UK048023 - Callum Theodorou.pdf,pdf,pdf,3,True
+619,STP001,STP001 Marriott - St Pierre,UK048404 - Kevin Yeo.pdf,pdf,pdf,3,True
+620,STP001,STP001 Marriott - St Pierre,UK055486 - Scott Williams.pdf,pdf,pdf,3,True
+621,STP001,STP001 Marriott - St Pierre,UK071288 - Michael Roberts.pdf,pdf,pdf,3,True
+622,STP001,STP001 Marriott - St Pierre,UK073572 -Lewis Charlesworth.pdf,pdf,pdf,3,True
+623,SUN050,SUN050 Ambre Mauritius,265353668.pdf,pdf,pdf,2,True
+624,SUN050,SUN050 Ambre Mauritius,265354943.pdf,pdf,pdf,2,True
+625,SUN050,SUN050 Ambre Mauritius,309239217.pdf,pdf,pdf,2,True
+626,SUN050,SUN050 Ambre Mauritius,SAINSBURY Carol.pdf,pdf,pdf,2,True
+627,Surprise,Surprise Tours SUR005,nietour_ft_2025-11.pdf,pdf,pdf,2,True
+628,TEL001,TEL001 Q Hotels - Telford Golf & Spa Hotel,YGT 4.6.25.xlsx,xlsx,excel,0,True
+629,TEL001,TEL001 Q Hotels - Telford Golf & Spa Hotel,YGT 6.5.25.xlsx,xlsx,excel,0,True
+630,TEL001,TEL001 Q Hotels - Telford Golf & Spa Hotel,YGT Telford 10.6.25.xlsx,xlsx,excel,0,True
+631,TEL001,TEL001 Q Hotels - Telford Golf & Spa Hotel,YGT Telford 22.05.25.xlsx,xlsx,excel,0,True
+632,THO001,THO001 Thorpeness & Aldeburgh Hotel Golf & CC,Buttle.pdf,pdf,pdf,-1,False
+633,THO001,THO001 Thorpeness & Aldeburgh Hotel Golf & CC,Glover.pdf,pdf,pdf,-1,False
+634,THO001,THO001 Thorpeness & Aldeburgh Hotel Golf & CC,Mayes.pdf,pdf,pdf,-1,False
+635,THO001,THO001 Thorpeness & Aldeburgh Hotel Golf & CC,TAHTHORP_FolioBill_20250531_121939.pdf,pdf,pdf,-1,False
+636,TIV005,TIV005 Tivoli Marina Vilamoura,6017103809.PDF,pdf,pdf,2,True
+637,TIV005,TIV005 Tivoli Marina Vilamoura,6017106348.PDF,pdf,pdf,2,True
+638,TIV005,TIV005 Tivoli Marina Vilamoura,6017106349.PDF,pdf,pdf,2,True
+639,TOR006,TOR006 Golf Torrequebrada,F01042025_173108_350.pdf,pdf,pdf,1,True
+640,TOR006,TOR006 Golf Torrequebrada,F03062025_095835_350.pdf,pdf,pdf,1,True
+641,TOR006,TOR006 Golf Torrequebrada,F07052025_162934_350.pdf,pdf,pdf,1,True
+642,TOR016,TOR016 Hotel Monarque Torreblanca,YOURGOLFTRAVEL EU050057.pdf,pdf,pdf,1,True
+643,TOR016,TOR016 Hotel Monarque Torreblanca,YOURGOLFTRAVEL EU053483.pdf,pdf,pdf,1,True
+644,TOR016,TOR016 Hotel Monarque Torreblanca,YOURGOLFTRAVEL PARK.pdf,pdf,pdf,1,True
+645,TRU002,TRU002 Trump National Doral - Miami,08.10 08.13 Martin Hind YGT 18711.pdf,pdf,pdf,3,True
+646,TRU002,TRU002 Trump National Doral - Miami,09.16 - 09.17 Dan Armitage YGT 18730 18733 18734.pdf,pdf,pdf,3,True
+647,TRU002,TRU002 Trump National Doral - Miami,12.12 - 12.16 Rhys Piper YGT 18934 18935 18936 18937 18938.pdf,pdf,pdf,3,True
+648,TRY003,TRY003 Tryp Palma Bellver,EU056769 - WRAGG - 17 ROOMS - ARR. 13 JUNE.pdf,pdf,pdf,3,True
+649,TRY003,TRY003 Tryp Palma Bellver,EU062403 - ARRIVAL 23 JUNE.pdf,pdf,pdf,3,True
+650,TRY003,TRY003 Tryp Palma Bellver,EU067792 - ARRIVAL JUNE 16.pdf,pdf,pdf,3,True
+651,TSR004,TSR004 The Springs Resort & Golf Club,Anteney YGT UK058693.pdf,pdf,pdf,1,True
+652,TSR004,TSR004 The Springs Resort & Golf Club,Ashfield YGT UK070322.pdf,pdf,pdf,1,True
+653,TSR004,TSR004 The Springs Resort & Golf Club,Barrett YGT UK072044.pdf,pdf,pdf,1,True
+654,TSR004,TSR004 The Springs Resort & Golf Club,Eade YGT UK048211.pdf,pdf,pdf,1,True
+655,TSR004,TSR004 The Springs Resort & Golf Club,Ewing YGT UK062096.pdf,pdf,pdf,1,True
+656,TSR004,TSR004 The Springs Resort & Golf Club,Hitchings YGT UK066482.pdf,pdf,pdf,1,True
+657,TSR004,TSR004 The Springs Resort & Golf Club,Purves YGT UK072109.pdf,pdf,pdf,1,True
+658,TTC001,TTC001 Tytherington Club,Steve Bond Stay and Play (60) UK044725.pdf,pdf,pdf,-1,False
+659,TTC001,TTC001 Tytherington Club,YGT - Gary Simpson.pdf,pdf,pdf,-1,False
+660,TTC001,TTC001 Tytherington Club,an Fraser Stay and Play (12) UK045904.pdf,pdf,pdf,-1,False
+661,TUD001,TUD001 Marriott - Tudor Park Hotel,451145.pdf,pdf,pdf,1,True
+662,TUD001,TUD001 Marriott - Tudor Park Hotel,451147.pdf,pdf,pdf,1,True
+663,TUD001,TUD001 Marriott - Tudor Park Hotel,451148.pdf,pdf,pdf,1,True
+664,TUD001,TUD001 Marriott - Tudor Park Hotel,451150.pdf,pdf,pdf,1,True
+665,TUD001,TUD001 Marriott - Tudor Park Hotel,451302.pdf,pdf,pdf,1,True
+666,TUD001,TUD001 Marriott - Tudor Park Hotel,451305.pdf,pdf,pdf,1,True
+667,TUD001,TUD001 Marriott - Tudor Park Hotel,451311.pdf,pdf,pdf,1,True
+668,TUD001,TUD001 Marriott - Tudor Park Hotel,451312.pdf,pdf,pdf,1,True
+669,TUR001,TUR001 Trump Turnberry Resort,YGT Invoice November 2024.xlsx,xlsx,excel,3,True
+670,TUR001,TUR001 Trump Turnberry Resort,YGT October invoice.xlsx,xlsx,excel,3,True
+671,TUR001,TUR001 Trump Turnberry Resort,YGT September Invoice.xlsx,xlsx,excel,3,True
+672,TYH003,TYH003 TY Hotel Newport,TNP - YGT Invoicing 2024 (3).xlsx,xlsx,excel,2,True
+673,TYH003,TYH003 TY Hotel Newport,TNP - YGT Invoicing 2025 (1).xlsx,xlsx,excel,2,True
+674,TYH003,TYH003 TY Hotel Newport,TNP - YGT Invoicing 2025.xlsx,xlsx,excel,2,True
+675,The,The Belry,May 25.xlsx,xlsx,excel,3,True
+676,The,The Celtic Manor,YGT Invoicing 2025.xlsx,xlsx,excel,3,True
+677,UFF001,UFF001 Best Western - Ufford Park Hotel Golf & Spa,INV015971.pdf,pdf,pdf,1,True
+678,UFF001,UFF001 Best Western - Ufford Park Hotel Golf & Spa,INV015972.pdf,pdf,pdf,1,True
+679,UFF001,UFF001 Best Western - Ufford Park Hotel Golf & Spa,INV015977.pdf,pdf,pdf,1,True
+680,UFF001,UFF001 Best Western - Ufford Park Hotel Golf & Spa,INV015978.pdf,pdf,pdf,1,True
+681,UFF001,UFF001 Best Western - Ufford Park Hotel Golf & Spa,INV015979.pdf,pdf,pdf,1,True
+682,UFF001,UFF001 Best Western - Ufford Park Hotel Golf & Spa,INV015980.pdf,pdf,pdf,1,True
+683,ULL001,ULL001 Best Western Ullesthorpe Court,INV025398.pdf,pdf,pdf,3,True
+684,ULL001,ULL001 Best Western Ullesthorpe Court,INV025401.pdf,pdf,pdf,3,True
+685,ULL001,ULL001 Best Western Ullesthorpe Court,INV025403.pdf,pdf,pdf,3,True
+686,VAL004,VAL004 The Vale Hotel Golf and Spa Resort,YGT001 R0BB8A.pdf,pdf,pdf,2,True
+687,VAL004,VAL004 The Vale Hotel Golf and Spa Resort,YGT001 R0CD37.pdf,pdf,pdf,2,True
+688,VAL004,VAL004 The Vale Hotel Golf and Spa Resort,YGT001 R0D070.pdf,pdf,pdf,2,True
+689,VAL012,VAL012 Clube de Golfe Vale do Lobo,15_05_25_Your Golf Travel.com.pdf,pdf,pdf,1,True
+690,VAL012,VAL012 Clube de Golfe Vale do Lobo,30_04_25_Your Golf Travel.com.pdf,pdf,pdf,1,True
+691,VAL012,VAL012 Clube de Golfe Vale do Lobo,31_05_25_Your Golf Travel.com.pdf,pdf,pdf,1,True
+692,VER003,VER003 Verdura Golf Resort & Spa,Casper proforma.pdf,pdf,pdf,2,True
+693,VER003,VER003 Verdura Golf Resort & Spa,Proforma Invoice Simon Holmes Coaching Break (1).pdf,pdf,pdf,2,True
+694,VER003,VER003 Verdura Golf Resort & Spa,Proforma invoice Nina Reed.pdf,pdf,pdf,2,True
+695,VIL012,VIL012 Vila Gale Marina,YOUR GOLF TRAVEL (3).xls,xls,excel,3,True
+696,VIL012,VIL012 Vila Gale Marina,YOUR GOLF TRAVEL (4).xls,xls,excel,3,True
+697,VIL012,VIL012 Vila Gale Marina,Your golf Travel (2).xls,xls,excel,3,True
+698,VIL012,VIL012 Vilamoura Garden Hotel,20998.pdf,pdf,pdf,3,True
+699,VIL012,VIL012 Vilamoura Garden Hotel,20999.pdf,pdf,pdf,3,True
+700,VIL012,VIL012 Vilamoura Garden Hotel,21000.pdf,pdf,pdf,3,True
+701,VIL012,VIL012 Vilamoura Garden Hotel,21218.pdf,pdf,pdf,3,True
+702,VIL013,VIL013 Melia Villaitana,031825020218.pdf,pdf,pdf,2,True
+703,VIL013,VIL013 Melia Villaitana,031825020791.pdf,pdf,pdf,2,True
+704,VIL013,VIL013 Melia Villaitana,031825020792.pdf,pdf,pdf,2,True
+705,VIL013,VIL013 Melia Villaitana,031825021213.pdf,pdf,pdf,2,True
+706,VIL016,VIL016 Vila Gale Tavira,FT3202512568.pdf,pdf,pdf,1,True
+707,VIL016,VIL016 Vila Gale Tavira,FT3202514881.pdf,pdf,pdf,1,True
+708,VIL016,VIL016 Vila Gale Tavira,FT320259065.pdf,pdf,pdf,1,True
+709,VIL021,VIL021 Vila Gale Cascais,FT1120254570.pdf,pdf,pdf,3,True
+710,VIL021,VIL021 Vila Gale Cascais,FT1120257467.pdf,pdf,pdf,3,True
+711,VIL021,VIL021 Vila Gale Cascais,FT1120259214.pdf,pdf,pdf,3,True
+712,Village,Village Blackpool,Invoice (2).pdf,pdf,pdf,3,True
+713,Village,Village Swansea,Invoice (3).pdf,pdf,pdf,3,True
+714,WAR001,WAR001 The Warwickshire Golf & Country Club,295390 YGT Michael Kheng.pdf,pdf,pdf,3,True
+715,WAR001,WAR001 The Warwickshire Golf & Country Club,299187 YGT Ian Simpson.pdf,pdf,pdf,3,True
+716,WAR001,WAR001 The Warwickshire Golf & Country Club,299223 YGT Paul Juson.pdf,pdf,pdf,3,True
+717,WAR001,WAR001 The Warwickshire Golf & Country Club,299381 YGT Paul Turner.pdf,pdf,pdf,3,True
+718,WAR001,WAR001 The Warwickshire Golf & Country Club,302279 YGT Ian Jones.pdf,pdf,pdf,3,True
+719,WAR001,WAR001 The Warwickshire Golf & Country Club,307534 YGT Ian Griggs.pdf,pdf,pdf,3,True
+720,WAR001,WAR001 The Warwickshire Golf & Country Club,308222 YGT Sidney Perrin.pdf,pdf,pdf,3,True
+721,WEA002,WEA002 Weald of Kent,Event Administration for Finnigan YGT.com UK050026 1NDBB X2.pdf,pdf,pdf,2,True
+722,WEA002,WEA002 Weald of Kent,Event Administration for Gwinnel YGT.com UK053141 1NDBB X6 Day 1_2.pdf,pdf,pdf,2,True
+723,WEA002,WEA002 Weald of Kent,Event Administration for Lawrence YGT.com UK046429 1NDBB X18.pdf,pdf,pdf,2,True
+724,WEA002,WEA002 Weald of Kent,Event Administration for Roberts YGT.com UK052288 1NDBB X4 Day 1_2.pdf,pdf,pdf,2,True
+725,WEN002,WEN002 Wensum Valley Hotel,Mal Cole UK048485.pdf,pdf,pdf,3,True
+726,WEN002,WEN002 Wensum Valley Hotel,S25C-7i25060316110.pdf,pdf,pdf,3,True
+727,WEN002,WEN002 Wensum Valley Hotel,chris jones.pdf,pdf,pdf,3,True
+728,WHI007,WHI007 Whittlebury Hall,YGT Invoicing 20250515.xlsx,xlsx,excel,3,True
+729,WIM001,WIM001 Golf de Wimereux,YGT 0924.pdf,pdf,pdf,2,True
+730,WIM001,WIM001 Golf de Wimereux,YGT 1024.pdf,pdf,pdf,2,True
+731,WIM001,WIM001 Golf de Wimereux,YGT 1124.pdf,pdf,pdf,2,True
+732,WIM001,WIM001 Golf de Wimereux,YGT 1224.pdf,pdf,pdf,2,True
+733,WOK001,WOK001 De Vere - Wokefield Park,100285161 - Glenn Baxter.PDF,pdf,pdf,3,True
+734,WOK001,WOK001 De Vere - Wokefield Park,100285163 - Keegan Geraghty.PDF,pdf,pdf,3,True
+735,WOK001,WOK001 De Vere - Wokefield Park,100285164 - Paul Coupland.PDF,pdf,pdf,3,True
+736,WOK001,WOK001 De Vere - Wokefield Park,100285166 - Bob Trimm.PDF,pdf,pdf,3,True
+737,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,544894 - Emlyn Cole-Jones.pdf,pdf,pdf,1,True
+738,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,550975 - Tony Hereford.pdf,pdf,pdf,1,True
+739,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,550980 - Kevin Delaney.pdf,pdf,pdf,1,True
+740,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,550981 - John Vincent Livesey.pdf,pdf,pdf,1,True
+741,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,550982 - Geoff Sharpe.pdf,pdf,pdf,1,True
+742,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,550984 - Mike Mearns.pdf,pdf,pdf,1,True
+743,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,550986 - Stuart Lumsdon.pdf,pdf,pdf,1,True
+744,WOR001,WOR001 Marriott - Worsley Park Hotel & CC,552206 - Elena Wren.pdf,pdf,pdf,1,True
+745,WYB001,WYB001 Wyboston Lakes Ltd,157547.pdf,pdf,pdf,2,True
+746,WYB001,WYB001 Wyboston Lakes Ltd,161155.pdf,pdf,pdf,2,True
+747,WYB001,WYB001 Wyboston Lakes Ltd,161158.pdf,pdf,pdf,2,True
+748,WYB001,WYB001 Wyboston Lakes Ltd,161186.pdf,pdf,pdf,2,True
+749,WYB001,WYB001 Wyboston Lakes Ltd,161193.pdf,pdf,pdf,2,True
+750,WYB001,WYB001 Wyboston Lakes Ltd,161198.pdf,pdf,pdf,2,True
+751,WYB001,WYB001 Wyboston Lakes Ltd,161201.pdf,pdf,pdf,2,True
+752,WYC001,WYC001 Wychwood Park Hotel,David niven UK055433 INV013925.pdf,pdf,pdf,2,True
+753,WYC001,WYC001 Wychwood Park Hotel,Kevin parkinson UK061912 INV014994.pdf,pdf,pdf,2,True
+754,WYC001,WYC001 Wychwood Park Hotel,mike palinUK056537 INV015204.pdf,pdf,pdf,2,True
+755,ZAF001,ZAF001 Zafiro Rey Don Jaime,25FE240004776_YGT.pdf,pdf,pdf,3,True
+756,ZAF001,ZAF001 Zafiro Rey Don Jaime,25FE240005176_YGT.pdf,pdf,pdf,3,True
+757,ZAF001,ZAF001 Zafiro Rey Don Jaime,25FE240005178_YGT.pdf,pdf,pdf,3,True
+758,ZAF001,ZAF001 Zafiro Rey Don Jaime,25FE240005294_YGT.pdf,pdf,pdf,3,True
+759,ZAF001,ZAF001 Zafiro Rey Don Jaime,25FE240005296_YGT.pdf,pdf,pdf,3,True

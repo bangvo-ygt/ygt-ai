@@ -31,7 +31,7 @@ def validate_per_doc(target, prediction):
 
 
 if __name__ == "__main__":
-    target_path = "./data/preprocess_data/labels/"
+    target_path = "./data/labeled_data/preprocess_data/labels/"
     predict_path = "./results/document_ai/"
 
     all_files = []

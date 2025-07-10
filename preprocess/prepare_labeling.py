@@ -7,7 +7,8 @@ import shutil
 import pandas as pd
 
 
-def remove_duplicates(data_path, dest_path):
+def clean_data(data_path, dest_path):
+    # Remove duplicates with the (1) in the name
     files = glob.glob(f"{data_path}/**/*", recursive=True)
     files = [f for f in files if not os.path.isdir(f)]
     print(f"Number of original files: {len(files)}")
@@ -35,15 +36,28 @@ def remove_duplicates(data_path, dest_path):
         shutil.copy2(file, os.path.join(dest_path, foldername, filename))
 
 
-def get_data(data_path: str = "", df: pd.DataFrame = None):
+def update_data_info(df: pd.DataFrame, data_path: str = ""):
     files = glob.glob(f"{data_path}/**/*", recursive=True)
     files = [f for f in files if not os.path.isdir(f)]
 
     for file in sorted(files):
         file_name = os.path.basename(file)
         folder_name = os.path.dirname(file).split("/")[-1]
-        extension = file_name.split(".")[-1]
+        extension = file_name.split(".")[-1].lower()
         code = folder_name.split(" ")[0]
+        extension_mapping = ""
+        # Get file type mapping
+        if extension in ["xlsx", "xls", "xlsb"]:
+            extension_mapping = "excel"
+        elif extension in ["pdf"]:
+            extension_mapping = "pdf"
+        elif extension in ["doc", "docx"]:
+            extension_mapping = "word"
+        elif extension in ["eml"]:
+            extension_mapping = "eml"
+        elif extension in ["html"]:
+            extension_mapping = "html"
+
         exists = (
             (df["folder_name"] == folder_name) & (df["file_name"] == file_name)
         ).any()
@@ -54,6 +68,7 @@ def get_data(data_path: str = "", df: pd.DataFrame = None):
                 "file_name": file_name,
                 "idx": len(df),
                 "file_type": extension.lower(),
+                "file_type_mapping": extension_mapping,
                 "split": -1,
                 "in_use": False,
             }
@@ -61,8 +76,25 @@ def get_data(data_path: str = "", df: pd.DataFrame = None):
     return df
 
 
+def split_by_type(df: pd.DataFrame, clean_path: str = "", dest_path: str = ""):
+    for idx, row in df.iterrows():
+        os.makedirs(
+            os.path.join(dest_path, row["file_type_mapping"], row["folder_name"]),
+            exist_ok=True,
+        )
+        shutil.copy2(
+            os.path.join(clean_path, row["folder_name"], row["file_name"]),
+            os.path.join(
+                dest_path,
+                row["file_type_mapping"],
+                row["folder_name"],
+                row["file_name"],
+            ),
+        )
+
+
 def get_data_to_label(
-    df: pd.DataFrame = None, num_sample=50, split=0, src_path="", dest_path=""
+    df: pd.DataFrame, num_sample=50, split=0, src_path="", dest_path=""
 ):
     df_available = df[df["in_use"] == False]
     customers = df_available["code"].unique().tolist()
@@ -74,49 +106,56 @@ def get_data_to_label(
         df.loc[df["code"] == customer, "in_use"] = True
         df.loc[df["code"] == customer, "split"] = split
         for idx, row in df[df["code"] == customer].iterrows():
-            full_src_path = os.path.join(src_path, row["folder_name"], row["file_name"])
+            full_src_path = os.path.join(src_path, row["folder_name"])
             full_dest_path = os.path.join(
-                dest_path, str(split), row["folder_name"], row["file_name"]
+                dest_path, str(split), row["file_type_mapping"], row["folder_name"]
             )
-            os.makedirs(
-                os.path.join(dest_path, str(split), row["folder_name"]), exist_ok=True
+            os.makedirs(full_dest_path, exist_ok=True)
+            shutil.copy2(
+                os.path.join(full_src_path, row["file_name"]),
+                os.path.join(full_dest_path, row["file_name"]),
             )
-            shutil.copy2(full_src_path, full_dest_path)
 
     return df
 
 
 def analyze(df):
     num_customers = df["code"].unique()
-    file_type = df["file_type"].unique()
     num_samples = len(df)
     num_available = len(df[df["in_use"] == False])
+    file_type_value_counts = df["file_type"].value_counts()
+    file_type_mapping_value_counts = df["file_type_mapping"].value_counts()
+
     print(f"Number of customers: {len(num_customers)}")
     print(f"Number of files: {num_samples}")
     print(f"Number of unlabeled files: {num_available}")
-    print(f"File types: {file_type}")
+    print(f"File types: {str(file_type_value_counts)}")
+    print(f"File types mapping: {str(file_type_mapping_value_counts)}")
 
 
 if __name__ == "__main__":
     # Read path
-    original_data_path = "../original_data/invoices/"
+    original_data_path = "./data/original_data/invoices/"
     ready_to_label_path = "./data/ready_to_label_data/"
-    remove_dups_path = "./data/remove_dups/"
+    clean_data_path = "./data/clean_data/"
+    split_path = "./data/split_data/"
 
     os.makedirs(ready_to_label_path, exist_ok=True)
-    os.makedirs(remove_dups_path, exist_ok=True)
-    data_info = "./data/data_info.csv"
+    os.makedirs(clean_data_path, exist_ok=True)
+    os.makedirs(split_path, exist_ok=True)
+    data_info = "./data_info.csv"
 
     df = None
-    save = True
-    create_split = True
-    remove_duplicate = True
-    get_new_data = True
+    is_save = True
+    is_create_split = True
+    is_clean_data = True
+    is_update_data_info = True
     is_analyze = True
+    is_split_by_type = True
 
     # Remove duplicates
-    if remove_duplicate:
-        remove_duplicates(original_data_path, remove_dups_path)
+    if is_clean_data:
+        clean_data(original_data_path, clean_data_path)
 
     # Load data
     if os.path.exists(data_info):
@@ -129,19 +168,23 @@ if __name__ == "__main__":
                 "folder_name",
                 "file_name",
                 "file_type",
+                "file_type_mapping",
                 "split",
                 "in_use",
             ]
         )
 
-    if get_new_data:
-        df = get_data(remove_dups_path, df)
+    if is_update_data_info:
+        df = update_data_info(df, clean_data_path)
 
     if is_analyze:
         analyze(df)
 
+    if is_split_by_type:
+        split_by_type(df, clean_data_path, split_path)
+
     # Create split
-    if create_split:
+    if is_create_split:
         num_customers = 50
 
         while len(df[df["in_use"] == False]["code"].unique().tolist()) > num_customers:
@@ -151,10 +194,10 @@ if __name__ == "__main__":
                 df,
                 num_sample=num_customers,
                 split=max_idx + 1,
-                src_path=remove_dups_path,
+                src_path=clean_data_path,
                 dest_path=ready_to_label_path,
             )
 
     # Store data information
-    if save:
+    if is_save:
         df = df.to_csv(data_info, index=False)

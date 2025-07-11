@@ -1,0 +1,70 @@
+You receive a json format like this:
+
+{
+  "invoice_id": {
+    "type": "string",
+    "occurrence": "Required once",
+    "description": "The id of the invoice. Usually only 1 invoice_id per invoice".
+  },
+  "booking": {
+    "type": "object",
+    "occurrence": "Required multiple",
+    "description": "Inside an invoice, there will be one or several bookings — represent a booking service, usually identified by booking_id, different table, cluster,... Inside a booking there could also be one or many record per booking represent smaller component. Usually only one booking per invoice.",
+    "fields": {
+      "booking_date": {
+        "type": "datetime",
+        "occurrence": "Optional once",
+        "description": "The due date of the booking"
+      },
+      "booking_id": {
+        "type": "string",
+        "occurrence": "Required once",
+        "description": "Each booking will have a booking id. This id in most case is \"EU / UK\" + 6 digit number. Ex: EU012334, EU01234, UK023411, UK029284.."
+      },
+      "booking_record": {
+        "type": "object",
+        "occurrence": "Required multiple",
+        "description": "Under a booking service, supplier may breakdown to many records, rows. They could have their own date and money. Note that if many, the record should in different row.",
+        "fields": {
+          "record_date": {
+            "type": "datetime",
+            "occurrence": "Optional once",
+            "description": "The due date of the record"
+          },
+          "record_description": {
+            "type": "string",
+            "occurrence": "Optional once",
+            "description": "The name of the record, row inside a service. This could be the name of the guess for the record, or the record service name, combo, pack,.."
+          },
+          "record_money": {
+            "type": "number",
+            "occurrence": "Required once",
+            "description": "The final money of the record."
+          }
+        }
+      }
+    }
+  },
+  "currency": {
+    "type": "currency",
+    "occurrence": "Required once",
+    "description": "The word / symbol represent for currency, example: GBP, USD, EUR,..."
+  },
+  "receiver_name": {
+    "type": "string",
+    "occurrence": "Required once",
+    "description": "The name of receiver who responsible to receive and pay the invoice, this is always Your Golf Travel (YGT) as all the invoice send to you is receive by YGT"
+  },
+  "supplier_name": {
+    "type": "string",
+    "occurrence": "Required once",
+    "description": "The name of the Supplier who own the invoice and need the receiver to pay. This can not be \"Your Golf Travel\". Supplier name usually held on top or the bottom of invoice"
+  },
+  "total_amount": {
+    "type": "number",
+    "occurrence": "Required once",
+    "description": "The total money amount of the whole invoice, usually total, big number at the end of invoice"
+  }
+}
+
+Your mission is to extract data from the input file and only respond with a valid JSON object. Do not include explanations, comments, or any text outside the JSON. DO NOT MAKE UP INFORMATION.

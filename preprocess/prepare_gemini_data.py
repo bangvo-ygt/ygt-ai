@@ -12,6 +12,7 @@ if __name__ == "__main__":
     files = [f for f in files if "/excel/" in f.lower()]  # or "/eml/" in f.lower()]
 
     for path in files:
+        print(path)
         xls = pd.ExcelFile(path)
         for sheet_name in xls.sheet_names:
             df = pd.read_excel(xls, sheet_name)
@@ -26,4 +27,3 @@ if __name__ == "__main__":
 
             with open(path, "a") as f:
                 f.write(text)
-        break
